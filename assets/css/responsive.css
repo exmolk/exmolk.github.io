@@ -65,7 +65,8 @@
 		width: 70%;
 	}
 	.banner .content-left span{
-		font-size: 238px;
+		/*font-size: 238px;*/
+		font-size: 79px;
 	    line-height: 186px;
 	}
 	.banner .content-left p{
@@ -161,7 +162,7 @@
 		padding-right: 15px;
 	}
 	.banner .content-left span{
-		font-size: 200px;
+		font-size: 65px;
 	    line-height: 146px;
 	}
 	.banner .content-left p{

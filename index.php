@@ -10,35 +10,10 @@
   ?>
 
 
-
-    <!-- About start here -->
-    <section class="about about-two">
-      <div class="container">
-        <div class="row">
-          <!--<div class="col-md-4 col-sm-12 col-xs-12">
-            
-          </div>-->
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="content">
-              <div class="section-header">
-                <div class="image">
-              <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
-            </div>
-              </div>
-             
-            </div>
-          </div>
-        </div>
-      
-      </div><!-- container -->
-    </section>
-    <!-- About end here -->
-
-
     <!-- banner start here-->
-    <section  class="banner banner-two">
+    <section  class="banner">
       <ul id="top" class="cb-slideshow">
-        <li><span><img width="100%" src="images/banner/robot.jpg"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/robot.jpg');"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/chem.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/car.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
@@ -59,36 +34,46 @@
         <div class="banner-content">
           
           
-          <div id="clockdiv">
-            <div class="clock-item">
-              <span class="days"></span>
-              <p class="smalltext">Days</p>
-            </div>
-            <div class="clock-item">
-              <span class="hours"></span>
-              <p class="smalltext">Hours</p>
-            </div>
-            <div class="clock-item">
-              <span class="minutes"></span>
-              <p class="smalltext">Minutes</p>
-            </div>
-            <div class="clock-item">
-              <span class="seconds"></span>
-              <p class="smalltext">Seconds</p>
-            </div>
-          </div>
+ <div class="content-left">
 
-          <!--<div class="content-left">
-            <span class="counter" data-count="24">0</span>
-            <p>December 2017</p>
-          </div>-->
-          
-          <!--<p>don't miss the upcoming event</p>
-          <h2>BUSINESS CONFERENCE 2017</h2>-->
-          <ul>
+   <!--<p>Starts on</p>-->
+            <span class="counter" data-count="28">0</span>
+              <span>-</span>
+            <span class="counter" data-count="29">0</span>
+              <!---</span><span class="counter" data-count="29">0</span>-->
+            
+            <!--<span class="counter" data-count="29">0</span>-->
+            <p>April 2017</p>
+          </div><!-- content-left -->
+          <div class="content-right">
+            <div class="content">
+              <h2> Exmo 2017</h2>
+              <h3> Organized by University of Moratuwa </h3>
+              <ul>
             <li><span class="flaticon-tool"></span>28-29 April, 2017</li>
-            <li><span class="flaticon-signs"></span> Bandaranayake Mawatha, Katubedda, Moratuwa.</li>
-          </ul>
+            <li><span class="flaticon-signs"></span> University of Moratuwa, Katubedda, Moratuwa.</li>
+              </ul>
+              <div id="clockdiv">
+                <div class="clock-item">
+                  <span class="days"></span>
+                  <p class="smalltext">Days</p>
+                </div>
+                <div class="clock-item">
+                  <span class="hours"></span>
+                  <p class="smalltext">Hours</p>
+                </div>
+                <div class="clock-item">
+                  <span class="minutes"></span>
+                  <p class="smalltext">Minutes</p>
+                </div>
+                <div class="clock-item">
+                  <span class="seconds"></span>
+                  <p class="smalltext">Seconds</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- content-right -->
+
         </div><!-- banner-content -->
       </div><!-- overlay -->
     </section>
@@ -109,7 +94,7 @@
                 <h2>Exmo 2017</h2>
                 <p><em>Zenith of Innovation & Excellence</em></p>
                 <div class="image">
-              <!--<img src="images/logo_large.png" alt="about iamge" class="img-responsive">-->
+              <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
             </div>
               </div>
               <p>University of Moratuwa – Faculty of engineering proudly presents Exmo 2017 -
