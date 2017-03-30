@@ -24,6 +24,15 @@
 
 /*	01	- Default CSS
 ----------------------------------------------*/
+
+/* -------------- New ------------------------*/
+@media only screen and (min-width: 768px) {
+	header .main-menu ul li ul, .navbar-right .dropdown-menu{
+		display: none;
+		width: 620px;
+    }
+}
+
 /*
   1.0 - Normalize
  */
@@ -571,10 +580,10 @@ header{
 }
 header .main-menu{
 	background-color: #20619e;
-	min-height: 90px;
+	min-height: 70px;
 }
 header .main-menu .navbar-brand{
-	padding: 30px 0px;
+	padding: 10px 0px;
 }
 .main-menu.menu-fixed{
     position: fixed;
@@ -632,7 +641,7 @@ header .main-menu ul li a{
     font-weight: 500;
     color: #20619e;
     text-transform: uppercase;
-    padding: 35px 18px;
+    padding: 25px 18px;
 }
 header .main-menu ul li.active > a, header .main-menu ul li a:hover, header .main-menu ul li a:focus{
 	background-color: transparent;

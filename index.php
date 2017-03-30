@@ -47,60 +47,23 @@
 
   </head>
   <body>
-    <header class="header-two">
-      <nav class="main-menu menu-two menu-fixed">
-        <div class="container">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" class="img-responsive"></a>
-          </div>
-
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-              <li><a href="index.html##home">Home</a> </li>
-              <li><a href="index.html#about">About</a></li>
-               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="chemical.html"> Department of Chemical & Process Engineering</a></li>
-                  <li><a href="about-2.html">Department of Civil Engineering</a></li>
-                  <li><a href="about-2.html">Department of Computer Science & Engineering</a></li>
-                  <li><a href="about-2.html">Department of Earth Resources Engineering</a></li>
-                  <li><a href="about-2.html">Department of Electrical Engineering</a></li>
-                  <li><a href="about-2.html">Department of Electronic & Telecommunication Engineering</a></li>
-                  <li><a href="about-2.html">Department of Materials Science & Engineering</a></li>
-                  <li><a href="about-2.html">Department of Mechanical Engineering</a></li>
-                  <li><a href="about-2.html">Department of Textile & Clothing Technology</a></li>
-                  <li><a href="about-2.html">Department of Transport & Logistics</a></li> 
-                </ul>
-              </li>
-              <!--<li><a href="#schedule">Schedule</a></li>-->
-              <li><a href="index.html#partner">Become a partner</a></li>
-              <li><a href="index.html#contact">Contact</a></li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </div><!-- /.container -->
-      </nav>
-    </header>
+  
 
 
 
 
-
+<?php 
+  include("header.php");
+?>
 
 
     <!-- banner start here-->
-    <section id="home" class="banner banner-two">
-      <ul class="cb-slideshow">
+    <section  class="banner banner-two">
+      <ul id="top" class="cb-slideshow">
         <li><span><img width="100%" src="images/banner/robot.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/chem.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/car.jpg"></span><div></div></li>
+        <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
         <!--<li><span>Image 02</span><div></div></li>
@@ -185,11 +148,11 @@
 
 
     <!-- Sponsor start here -->
-    <section id="partner" class="sponsor sponsor-two padding-120">
+    <!--<section id="partner" class="sponsor sponsor-two padding-120">
       <div class="container">
         <a href="#" class="sponsor-button default-button">become a partner</a>
-      </div><!-- container -->
-    </section><!-- sponsor -->
+      </div>
+    </section>-->
     <!-- Sponsor end here -->
 
 
@@ -219,7 +182,7 @@
                   </div>
                 </div><!-- row -->
                 <input type="text" name="subject" placeholder="Subject" class="contact-input">
-                <textarea rows="5" class="contact-input">Massage</textarea>
+                <textarea rows="5" class="contact-input" placeholder="Massage" ></textarea>
                 <input type="submit" name="submit" value="Send Message" class="contact-submit">
               </form>
             </div>
@@ -245,15 +208,14 @@
                 <li>
                   <div class="icon flaticon-phone-call"></div>
                   <div class="content">
-                    <p>88013 659 214 512, 66021489</p>
-                    <p>01923 255 100 326</p>
+                    <p>011 2 650534</p>
                   </div>
                 </li>
                 <li>
                   <div class="icon flaticon-message"></div>
                   <div class="content">
-                    <p>exmo@mrt.ac.lk</p>
-                    <p>http://exmo.mrt.ac.lk</p>
+                    <p><a href="mailto:exmo@mrt.ac.lk">exmo@mrt.ac.lk</a></p>
+                    <p><a href="http://exmo.mrt.ac.lk">http://exmo.mrt.ac.lk</a></p>
                   </div>
                 </li>
               </ul>
