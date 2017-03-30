@@ -19,16 +19,16 @@
                <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="chemical.html"> Department of Chemical & Process Engineering</a></li>
-                  <li><a href="about-2.html">Department of Civil Engineering</a></li>
-                  <li><a href="about-2.html">Department of Computer Science & Engineering</a></li>
-                  <li><a href="about-2.html">Department of Earth Resources Engineering</a></li>
-                  <li><a href="about-2.html">Department of Electrical Engineering</a></li>
-                  <li><a href="about-2.html">Department of Electronic & Telecommunication Engineering</a></li>
-                  <li><a href="about-2.html">Department of Materials Science & Engineering</a></li>
-                  <li><a href="about-2.html">Department of Mechanical Engineering</a></li>
-                  <li><a href="about-2.html">Department of Textile & Clothing Technology</a></li>
-                  <li><a href="about-2.html">Department of Transport & Logistics</a></li> 
+                  <li><a href="chemical.php">Department of Chemical & Process Engineering</a></li>
+                  <li><a href="civil.php">Department of Civil Engineering</a></li>
+                  <li><a href="cse.php">Department of Computer Science & Engineering</a></li>
+                  <li><a href="erm.php">Department of Earth Resources Engineering</a></li>
+                  <li><a href="electrical.php">Department of Electrical Engineering</a></li>
+                  <li><a href="entc.php">Department of Electronic & Telecommunication Engineering</a></li>
+                  <li><a href="material.php">Department of Materials Science & Engineering</a></li>
+                  <li><a href="mechanical.php">Department of Mechanical Engineering</a></li>
+                  <li><a href="textile.php">Department of Textile & Clothing Technology</a></li>
+                  <li><a href="tlm.php">Department of Transport & Logistics</a></li> 
                 </ul>
               </li>
               <!--<li><a href="#schedule">Schedule</a></li>-->
