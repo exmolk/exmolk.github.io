@@ -100,17 +100,13 @@
             </div><!-- gallery-item -->
           </div>
         </div><!-- row -->
-        <a href="#" class="gallery-button default-button">lord more photos</a>
       </div><!-- container -->
     </section><!-- gallery -->
     <!-- Gallery end here -->
 
-
-
-<?php 
- include("footer.php");
-?>
-
+    <?php 
+     include("footer.php");
+    ?>
 
   </body>
 </html>

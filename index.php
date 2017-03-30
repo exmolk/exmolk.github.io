@@ -97,15 +97,81 @@
     </section>
     <!-- About end here -->
 
-
-
-
     <!-- Sponsor start here -->
-    <!--<section id="partner" class="sponsor sponsor-two padding-120">
-      <div class="container">
-        <a href="#" class="sponsor-button default-button">become a partner</a>
-      </div>
-    </section>-->
+    <section class="pricing">
+      <div class="overlay">
+        <div class="container">
+          <div class="section-header text-center">
+            <h3>Pricing Table</h3>
+            <p><em>Quickly harness dynamic thinking through value added models.</em></p>
+          </div>
+          <div class="pricing-items">
+            <div class="row">
+              <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="pricing-item first">
+                  <div class="pricing-header">
+                    <h3 class="name">Basic</h3>
+                    <h2 class="amount"><sup>$</sup>100</h2>
+                  </div><!-- pricing-header -->
+                  <div class="pricing-options">
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
+                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Certificate</p>
+                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Printed Metarials</p>
+                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>More Options</p>
+                  </div><!-- pricing-options -->
+
+                  <div class="pricing-button">
+                    <a href="#">ticket now</a>
+                  </div>
+                </div>
+              </div><div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="pricing-item second">
+                  <div class="pricing-header">
+                    <h3 class="name">Silver</h3>
+                    <h2 class="amount"><sup>$</sup>200</h2>
+                  </div><!-- pricing-header -->
+                  <div class="pricing-options">
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Certificate</p>
+                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Printed Metarials</p>
+                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>More Options</p>
+                  </div><!-- pricing-options -->
+
+                  <div class="pricing-button">
+                    <a href="#">ticket now</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="pricing-item third">
+                  <div class="pricing-header">
+                    <h3 class="name">gold</h3>
+                    <h2 class="amount"><sup>$</sup>250</h2>
+                  </div><!-- pricing-header -->
+                  <div class="pricing-options">
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Certificate</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Printed Metarials</p>
+                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>More Options</p>
+                  </div><!-- pricing-options -->
+
+                  <div class="pricing-button">
+                    <a href="#">ticket now</a>
+                  </div>
+                </div>
+              </div>
+            </div><!-- row -->
+          </div><!-- pricing items -->
+          
+        </div><!-- container -->
+      </div><!-- overlay -->
+    </section><!-- pricing -->
     <!-- Sponsor end here -->
 
 

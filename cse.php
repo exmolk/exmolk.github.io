@@ -5,40 +5,35 @@
 	?>
 	
 	<body>
-	<?php 
-	include("header.php");
-	?>
+	 <?php 
+	   include("header.php");
+	 ?>
 
     <!-- About start here -->
     <section class="about padding-120">
       <div class="container">
         <div class="section-header text-center">
-          <h2>About the Conference 2017</h2>
-          <p><em>Creative Thinking for Event Conference</em></p>
+          <h2>Department of Computer Science and Engineering</h2>
         </div>
-        <p>Phosrescently ntiate principle centered networks via magnetic services a Entusiasticaly streamline fulys tested metrics without freproof we services enabled 
-  Rapidiously evisculate standards compliant fullys tested metrics without futureproof web services anfullys tested metrics without futureproof web services
-  experiences bricks clicks a are aparadigmsRapidiously evisculate standards compliant web services are afor error free Assertively engineer areRapidiously 
-  Rapidiously evisculate standards compliant web services are afor error free</p>
+        <p>
+          Phosrescently ntiate principle centered networks via magnetic services a Entusiasticaly streamline fulys tested metrics without freproof we services enabled 
+    Rapidiously evisculate standards compliant fullys tested metrics without futureproof web services anfullys tested metrics without futureproof web services
+    experiences bricks clicks a are aparadigmsRapidiously evisculate standards compliant web services are afor error free Assertively engineer areRapidiously 
+    Rapidiously evisculate standards compliant web services are afor error free
+        </p>
         <ul class="about-button">
-          <li><a href="#" class="default-button">read more</a></li>
-          <li><a href="#" class="default-button">buy ticket</a></li>
+          <li><a href="#" class="default-button">Visit Department Website</a></li>
         </ul>
       
       </div><!-- container -->
     </section>
     <!-- About end here -->
 
-
-
-
-
     <!-- Gallery start here -->
-    <section class="gallery gallery-about padding-120">
+    <section class="gallery gallery-about padding-60">
       <div class="container">
         <div class="section-header text-center">
-          <h3>Event gallery</h3>
-          <p><em>Quickly harness dynamic thinking through value added models.</em></p>
+          <h3>Gallery</h3>
         </div>
 
         <div class="row">
@@ -97,17 +92,13 @@
             </div><!-- gallery-item -->
           </div>
         </div><!-- row -->
-        <a href="#" class="gallery-button default-button">lord more photos</a>
       </div><!-- container -->
     </section><!-- gallery -->
     <!-- Gallery end here -->
 
-
-
-<?php 
- include("footer.php");
-?>
-
+    <?php 
+      include("footer.php");
+    ?>
 
   </body>
 </html>

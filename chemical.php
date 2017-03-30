@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  <?php 
-  include("head.php");
+  <?php
+	 include("head.php");
   ?>
   <body>
   
-  <?php 
-    include("header.php");
-  ?>
+    <?php 
+      include("header.php");
+    ?>
 	
     <!-- About start here -->
     <section class="about padding-120">
@@ -16,23 +16,22 @@
           <h2>Department of Chemical and Process Engineering</h2>
         </div>
         <p>
-		Chemical and process engineering is one of the leading engineering disciplines in worldwide. As the department of chemical and 
-		process engineering, we have served to the industry by delivering graduates with excellent knowledge and skills for a 
-		sustainable future. Under petrochemical, mineral processing, food, pharmaceutical, biotechnology, polymer and ceramic 
-		industries, our graduates perform equally with other engineering disciplines.<br /><br />
-		
-		Over 36 years, our department strives to educate, conduct research and offer consulting services with dedication, devotion 
-		and commitment and aim to be a place of excellence through internationally recognized programs for the benefit of society.
-		<br /><br />
-		
-		In EXMO-2017, the department is ready to share the technical and innovative ideas and knowledge of our undergraduates under 
-		the sections of petroleum, food and biochemical, energy and environmental and polymer engineering. We warmly welcome you to 
-		the department of chemical and process engineering to witness the Excellency of our masterpieces.
-		</p>
+      		Chemical and process engineering is one of the leading engineering disciplines in worldwide. As the department of chemical and 
+      		process engineering, we have served to the industry by delivering graduates with excellent knowledge and skills for a 
+      		sustainable future. Under petrochemical, mineral processing, food, pharmaceutical, biotechnology, polymer and ceramic 
+      		industries, our graduates perform equally with other engineering disciplines.<br /><br />
+      		
+      		Over 36 years, our department strives to educate, conduct research and offer consulting services with dedication, devotion 
+      		and commitment and aim to be a place of excellence through internationally recognized programs for the benefit of society.
+      		<br /><br />
+      		
+      		In EXMO-2017, the department is ready to share the technical and innovative ideas and knowledge of our undergraduates under 
+      		the sections of petroleum, food and biochemical, energy and environmental and polymer engineering. We warmly welcome you to 
+      		the department of chemical and process engineering to witness the Excellency of our masterpieces.
+    		</p>
         <ul class="about-button">
           <li><a href="#" class="default-button">Visit Department Website</a></li>
-        </ul>
-      
+        </ul>      
       </div><!-- container -->
     </section>
     <!-- About end here -->
@@ -100,16 +99,13 @@
             </div><!-- gallery-item -->
           </div>
         </div><!-- row -->
-        <a href="#" class="gallery-button default-button">lord more photos</a>
       </div><!-- container -->
     </section><!-- gallery -->
     <!-- Gallery end here -->
 
-
-
-<?php 
- include("footer.php");
-?>
+    <?php 
+      include("footer.php");
+    ?>
 
   </body>
 </html>

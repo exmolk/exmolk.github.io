@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <?php 
-  include("head.php");
+    include("head.php");
   ?>
   <body>
   
-  <?php 
-    include("header.php");
-  ?>
+    <?php 
+      include("header.php");
+    ?>
 
     <!-- About start here -->
     <section class="about padding-120">
@@ -41,8 +41,7 @@
     <section class="gallery gallery-about padding-60">
       <div class="container">
         <div class="section-header text-center">
-          <h3>Event gallery</h3>
-          <p><em>Quickly harness dynamic thinking through value added models.</em></p>
+          <h3>Gallery</h3>
         </div>
 
         <div class="row">
@@ -101,17 +100,13 @@
             </div><!-- gallery-item -->
           </div>
         </div><!-- row -->
-        <a href="#" class="gallery-button default-button">lord more photos</a>
       </div><!-- container -->
     </section><!-- gallery -->
     <!-- Gallery end here -->
 
-
-
-<?php 
- include("footer.php");
-?>
-
+    <?php 
+     include("footer.php");
+    ?>
 
   </body>
 </html>
