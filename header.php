@@ -32,7 +32,7 @@
                 </ul>
               </li>
               <!--<li><a href="#schedule">Schedule</a></li>-->
-              <li><a href="index.php#partner">Become a partner</a></li>
+              <!--<li><a href="index.php#partner">Become a partner</a></li>-->
               <li><a href="index.php#contact">Contact</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->

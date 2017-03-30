@@ -11,9 +11,9 @@
 
 
     <!-- banner start here-->
-    <section  class="banner banner-two">
+    <section  class="banner">
       <ul id="top" class="cb-slideshow">
-        <li><span><img width="100%" src="images/banner/robot.jpg"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/robot.jpg');"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/chem.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/car.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
@@ -25,44 +25,60 @@
         <li><span>Image 05</span><div></div></li>
         <li><span>Image 06</span><div></div></li>-->
       </ul>
+      <!--<div class="content-right" style="background-color:rgba(0,0,0,0)">
+
+        </div>-->
+        
       
       <div class="banner-overlay">
         <div class="banner-content">
           
-          <div id="clockdiv">
-            <div class="clock-item">
-              <span class="days"></span>
-              <p class="smalltext">Days</p>
-            </div>
-            <div class="clock-item">
-              <span class="hours"></span>
-              <p class="smalltext">Hours</p>
-            </div>
-            <div class="clock-item">
-              <span class="minutes"></span>
-              <p class="smalltext">Minutes</p>
-            </div>
-            <div class="clock-item">
-              <span class="seconds"></span>
-              <p class="smalltext">Seconds</p>
-            </div>
-          </div>
-
-          <!--<div class="content-left">
-            <span class="counter" data-count="24">0</span>
-            <p>December 2017</p>
-          </div>-->
           
-          <!--<p>don't miss the upcoming event</p>
-          <h2>BUSINESS CONFERENCE 2017</h2>-->
-          <ul>
+ <div class="content-left">
+
+   <!--<p>Starts on</p>-->
+            <span class="counter" data-count="28">0</span>
+              <span>-</span>
+            <span class="counter" data-count="29">0</span>
+              <!---</span><span class="counter" data-count="29">0</span>-->
+            
+            <!--<span class="counter" data-count="29">0</span>-->
+            <p>April 2017</p>
+          </div><!-- content-left -->
+          <div class="content-right">
+            <div class="content">
+              <h2> Exmo 2017</h2>
+              <h3> Organized by University of Moratuwa </h3>
+              <ul>
             <li><span class="flaticon-tool"></span>28-29 April, 2017</li>
-            <li><span class="flaticon-signs"></span> Bandaranayake Mawatha, Katubedda, Moratuwa.</li>
-          </ul>
+            <li><span class="flaticon-signs"></span> University of Moratuwa, Katubedda, Moratuwa.</li>
+              </ul>
+              <div id="clockdiv">
+                <div class="clock-item">
+                  <span class="days"></span>
+                  <p class="smalltext">Days</p>
+                </div>
+                <div class="clock-item">
+                  <span class="hours"></span>
+                  <p class="smalltext">Hours</p>
+                </div>
+                <div class="clock-item">
+                  <span class="minutes"></span>
+                  <p class="smalltext">Minutes</p>
+                </div>
+                <div class="clock-item">
+                  <span class="seconds"></span>
+                  <p class="smalltext">Seconds</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- content-right -->
+
         </div><!-- banner-content -->
       </div><!-- overlay -->
     </section>
     <!-- banner end here -->
+
 
 
     <!-- About start here -->
@@ -75,7 +91,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="content padding-120">
               <div class="section-header">
-                <h2>About Exmo 2017</h2>
+                <h2>Exmo 2017</h2>
                 <p><em>Zenith of Innovation & Excellence</em></p>
                 <div class="image">
               <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
@@ -85,10 +101,11 @@
                  the majestic engineering and technological exhibition of the era which will soon be open to the public, 
                  industrial professionals and school children. A massive collection of innovative ideas, research projects, 
                  design projects and student inventions is to be expected.</p>
-              <ul class="about-button">
+              <!--<ul class="about-button">
                 <li><a href="#" class="default-button">read more</a></li>
+              </ul>-->
+              
                 <!--<li><a href="#" class="default-button">buy ticket</a></li>-->
-              </ul>
             </div>
           </div>
         </div>
@@ -96,82 +113,6 @@
       </div><!-- container -->
     </section>
     <!-- About end here -->
-
-    <!-- Sponsor start here -->
-    <section class="pricing">
-      <div class="overlay">
-        <div class="container">
-          <div class="section-header text-center">
-            <h3>Sponsors</h3>
-          </div>
-          <div class="pricing-items">
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="pricing-item first">
-                  <div class="pricing-header">
-                    <h3 class="name">Platinum</h3>
-                    <h2 class="amount"><sup>$</sup>100</h2>
-                  </div><!-- pricing-header -->
-                  <div class="pricing-options">
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
-                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Certificate</p>
-                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Printed Metarials</p>
-                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>More Options</p>
-                  </div><!-- pricing-options -->
-
-                  <div class="pricing-button">
-                    <a href="#">Reserve now</a>
-                  </div>
-                </div>
-              </div><div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="pricing-item second">
-                  <div class="pricing-header">
-                    <h3 class="name">Gold</h3>
-                    <h2 class="amount"><sup>$</sup>200</h2>
-                  </div><!-- pricing-header -->
-                  <div class="pricing-options">
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Certificate</p>
-                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>Printed Metarials</p>
-                    <p><span class="off"><i class="fa fa-times" aria-hidden="true"></i></span>More Options</p>
-                  </div><!-- pricing-options -->
-
-                  <div class="pricing-button">
-                    <a href="#">Reserve now</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="pricing-item third">
-                  <div class="pricing-header">
-                    <h3 class="name">Silver</h3>
-                    <h2 class="amount"><sup>$</sup>250</h2>
-                  </div><!-- pricing-header -->
-                  <div class="pricing-options">
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Conference Tickets</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Free Lunch And Coffee</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Easy Access</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Certificate</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>Printed Metarials</p>
-                    <p><span><i class="fa fa-check" aria-hidden="true"></i></span>More Options</p>
-                  </div><!-- pricing-options -->
-
-                  <div class="pricing-button">
-                    <a href="#">Reserve now</a>
-                  </div>
-                </div>
-              </div>
-            </div><!-- row -->
-          </div><!-- pricing items -->
-          
-        </div><!-- container -->
-      </div><!-- overlay -->
-    </section><!-- pricing -->
-    <!-- Sponsor end here -->
 
 
     <!-- Map start here -->
