@@ -794,10 +794,10 @@ header .menu-two.menu-two-bg{
     background-color: rgba(255,255,255,1);
 }
 header .menu-two ul li ul{
-    background-color: rgba(27,36,49,.2)!important;
+    background-color: #f8f8f8!important;
 }
 header .menu-two.menu-two-bg ul li ul{
-    background-color: rgba(27,36,49,1)!important;
+    background-color: #f8f8f8!important;
 }
 header .menu-three{
     background-color: #92278f;
