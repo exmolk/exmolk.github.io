@@ -173,7 +173,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
             <div class="contact-form">
               <h3>Get in Touch</h3>
               
-              <form action="https://www.elformo.com/forms/189046d3-3c51-43bf-8557-d0de06c05dcc"
+              <form action="form.php"
       method="POST" >
                 <div class="row">
                   <div class="col-md-6 col-sm-6 col-xs-12">
@@ -184,7 +184,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
                   </div>
                 </div><!-- row -->
                 <input type="text" name="subject" placeholder="Subject" class="contact-input">
-                <textarea rows="5" class="contact-input" placeholder="Massage" ></textarea>
+                <textarea rows="5" name="message" class="contact-input" placeholder="Massage" ></textarea>
                 <input type="submit" name="submit" value="Send Message" class="contact-submit">
               </form>
             </div>
