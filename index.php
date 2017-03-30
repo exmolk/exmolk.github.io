@@ -44,6 +44,7 @@
     <!-- Responsive -->
     <link href="assets/css/responsive.css" rel="stylesheet">
 
+    <link rel="icon" href="images/icon.png">
 
   </head>
   <body>
