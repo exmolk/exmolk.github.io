@@ -72,33 +72,6 @@
               </a>
             </div><!-- gallery-item -->
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="gallery-item">
-              <img src="images/gallery/gallery_04.jpg" alt="gallery image" class="img-responsive">
-              <div class="overlay"></div>
-              <a href="images/gallery/gallery_04.jpg" data-rel="lightcase:myCollection">
-                <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
-              </a>
-            </div><!-- gallery-item -->
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="gallery-item">
-              <img src="images/gallery/gallery_05.jpg" alt="gallery image" class="img-responsive">
-              <div class="overlay"></div>
-              <a href="images/gallery/gallery_05.jpg" data-rel="lightcase:myCollection">
-                <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
-              </a>
-            </div><!-- gallery-item -->
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="gallery-item">
-              <img src="images/gallery/gallery_06.jpg" alt="gallery image" class="img-responsive">
-              <div class="overlay"></div>
-              <a href="images/gallery/gallery_06.jpg" data-rel="lightcase:myCollection">
-                <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
-              </a>
-            </div><!-- gallery-item -->
-          </div>
         </div><!-- row -->
       </div><!-- container -->
     </section><!-- gallery -->
