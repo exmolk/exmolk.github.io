@@ -15,10 +15,22 @@
         <div class="section-header text-center">
           <h2>Department of Electrical Engineering</h2>
         </div>
-        <p>Phosrescently ntiate principle centered networks via magnetic services a Entusiasticaly streamline fulys tested metrics without freproof we services enabled 
-  Rapidiously evisculate standards compliant fullys tested metrics without futureproof web services anfullys tested metrics without futureproof web services
-  experiences bricks clicks a are aparadigmsRapidiously evisculate standards compliant web services are afor error free Assertively engineer areRapidiously 
-  Rapidiously evisculate standards compliant web services are afor error free</p>
+          <p>
+            Department of Electrical Engineering of University of Moratuwa is the best place to have a 
+            glorious seat of learning in Electrical Engineering. The department is committed to produce 
+            Electrical Engineering graduates that have been trained to face a diversity of challenges with 
+            emphasis on natural relevance, innovation and creativity and employability.<br /><br />
+
+            As a department with a broad scope of power engineering, electrical installation, electrical 
+            machinery and system automation and robotics, the department is planning to share out the 
+            technical knowledge with general public on the upcoming event “EXMO-2017”. It will be a 
+            non-intersecting opportunity for them to acknowledge well equipped laboratories dedicated 
+            to the areas of Electrical Measurements, Power Systems, Electrical Machines, Power Electronics, 
+            High Voltage, Electrical Installation and Robotics and Automation.<br /><br />
+
+            Special seminars, awareness programs and A/L practical will be conducted to gain hands on 
+            experiences, discarding misconceptions on electrical field and giving day today electrical knowledge.
+          </p>
         <ul class="about-button">
           <li><a href="#" class="default-button">Visit Department Website</a></li>
         </ul>
