@@ -67,7 +67,7 @@
 	.banner .content-left span{
 		/*font-size: 238px;*/
 		font-size: 79px;
-	    line-height: 186px;
+	    line-height: 16px;
 	}
 	.banner .content-left p{
 		font-size: 26px;
@@ -163,7 +163,7 @@
 	}
 	.banner .content-left span{
 		font-size: 65px;
-	    line-height: 146px;
+	    line-height: 14px;
 	}
 	.banner .content-left p{
 		font-size: 22px;

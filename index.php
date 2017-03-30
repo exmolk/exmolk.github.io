@@ -14,11 +14,11 @@
     <section  class="banner">
       <ul id="top" class="cb-slideshow">
         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/robot.jpg');"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/chem.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/car.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/uni.jpg"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/departments/entc/1.jpg');"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/departments/mech/1.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>
+         <!--<li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>-->
         <!--<li><span>Image 02</span><div></div></li>
         <li><span>Image 03</span><div></div></li>
         <li><span>Image 04</span><div></div></li>
@@ -48,7 +48,7 @@
           <div class="content-right">
             <div class="content">
               <h2> Exmo 2017</h2>
-              <h3> Organized by University of Moratuwa </h3>
+              <h3 style="color:white "> Organized by University of Moratuwa </h3>
               <ul>
             <li><span class="flaticon-tool"></span>28-29 April, 2017</li>
             <li><span class="flaticon-signs"></span> University of Moratuwa, Katubedda, Moratuwa.</li>
