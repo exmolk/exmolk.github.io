@@ -529,6 +529,9 @@ input[type="submit"][disabled]:focus {
 .padding-120{
     padding: 120px 0px;
 }
+.padding-60{
+    padding: 60px 0px;
+}
 .overlay{
     background-color: rgba(0,0,0,.6);
     padding: 110px 0px;
@@ -830,6 +833,8 @@ header .menu-four.menu-four-bg ul li ul{
 /*  03  - Banner
 ----------------------------------------------*/
 .banner{
+    
+    /*background-image: url(../../images/banner/banner.jpg);*/
     background-image: url(../../images/backgrounds/bg-banner.jpg);
     background-position: 50% 50%;
     background-size: cover;
@@ -1039,7 +1044,8 @@ header .menu-four.menu-four-bg ul li ul{
     font-size: 18px;
 }
 .banner-three{
-    background-image: url(../../images/backgrounds/bg-banner-02.jpg);
+    /*background-image: url(../../images/banner/banner.jpg);*/
+    background-image: url(../../images/backgrounds/bg-banner.jpg);
 }
 .banner-three .banner-content{
     position: relative;

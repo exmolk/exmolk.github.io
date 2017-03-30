@@ -13,10 +13,28 @@
     <!-- banner start here-->
     <section  class="banner">
       <ul id="top" class="cb-slideshow">
-        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/robot.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/departments/entc/1.jpg');"></span><div></div></li>
-        <li><span><div class="img_slide_container" style=" background-image: url('images/departments/mech/1.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>
+
+
+
+        <li><span><img height="100%" src="images/banner/1.jpg"></span><div></div></li>
+        <li><span><img height="100%" src="images/banner/2.jpg"></span><div></div></li>
+        <li><span><img width="100%" src="images/banner/3.jpg"></span><div></div></li>
+        <li><span><img width="100%" src="images/banner/4.jpg"></span><div></div></li>
+        <li><span><img width="100%" src="images/banner/5.jpg"></span><div></div></li>
+        <li><span><img width="100%" src="images/banner/6.jpg"></span><div></div></li>
+
+        <!--<li><span><div class="img_slide_container" style=" background-image: url('images/banner/1.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/2.jpg');"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/3.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/4.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/5.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/6.jpg');"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/1.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/2.jpg');"></span><div></div></li>
+        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/3.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/4.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/5.jpg');"></span><div></div></li>
+         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/6.jpg');"></span><div></div></li>-->
          <!--<li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>
         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>-->
         <!--<li><span>Image 02</span><div></div></li>
@@ -48,7 +66,7 @@
           <div class="content-right">
             <div class="content">
               <h2> Exmo 2017</h2>
-              <h3 style="color:white "> Organized by University of Moratuwa </h3>
+              <h4 style="color:white "> Organized by University of Moratuwa </h4>
               <ul>
             <li><span class="flaticon-tool"></span>28-29 April, 2017</li>
             <li><span class="flaticon-signs"></span> University of Moratuwa, Katubedda, Moratuwa.</li>
@@ -91,16 +109,41 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="content padding-120">
               <div class="section-header">
-                <h2>Exmo 2017</h2>
-                <p><em>Zenith of Innovation & Excellence</em></p>
-                <div class="image">
-              <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
+                
+                   <div class="row">
+                      <div class="col-md-6 col-sm-6 col-xs-12">
+                        <h2>About Exmo 2017</h2>
+                        <p><em>Zenith of Innovation & Excellence</em></p>
+                      </div>
+                
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 padding-60">
+                      <div class="image">
+                        <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
+                      </div>
+                    </div>
             </div>
-              </div>
-              <p>University of Moratuwa – Faculty of engineering proudly presents Exmo 2017 -
-                 the majestic engineering and technological exhibition of the era which will soon be open to the public, 
-                 industrial professionals and school children. A massive collection of innovative ideas, research projects, 
-                 design projects and student inventions is to be expected.</p>
+        </div>
+        
+         <p style="text-align: justify;">
+
+
+The Faculty of Engineering of University of
+Moratuwa is organizing EXMO 2017 on 28th
+and 29th of April to create a platform to exhibit
+the remarkable achievements in research and
+innovation. Being the leader in Engineering and
+Technology education in Sri Lanka it is a social
+responsibility of the Faculty of Engineering of
+University of Moratuwa to unveil the next generation
+EXMO 2017
+Achievements always need finer appreciation.
+The undergraduates of the University of Moratuwa
+have always been instinctively excellent in the field of engineering with their researches and
+knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following objectives.
+
+
+              </p>
               <!--<ul class="about-button">
                 <li><a href="#" class="default-button">read more</a></li>
               </ul>-->
@@ -180,8 +223,8 @@
               </ul>
               <ul class="event-social">
                 <li><a href="https://www.facebook.com/EXMOUOM/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/MoratuwaUni" style="background-color: #55acee;"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <!--<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
               </ul>
             </div><!-- contact-info -->
           </div>

@@ -10,41 +10,13 @@
   ?>
 
     <!-- About start here -->
-    <section class="about padding-120">
+    <section class="about gallery gallery-about padding-120">
       <div class="container">
         <div class="section-header text-center">
           <h2>Department of Electrical Engineering</h2>
         </div>
-          <p>
-            Department of Electrical Engineering of University of Moratuwa is the best place to have a 
-            glorious seat of learning in Electrical Engineering. The department is committed to produce 
-            Electrical Engineering graduates that have been trained to face a diversity of challenges with 
-            emphasis on natural relevance, innovation and creativity and employability.<br /><br />
 
-            As a department with a broad scope of power engineering, electrical installation, electrical 
-            machinery and system automation and robotics, the department is planning to share out the 
-            technical knowledge with general public on the upcoming event “EXMO-2017”. It will be a 
-            non-intersecting opportunity for them to acknowledge well equipped laboratories dedicated 
-            to the areas of Electrical Measurements, Power Systems, Electrical Machines, Power Electronics, 
-            High Voltage, Electrical Installation and Robotics and Automation.<br /><br />
 
-            Special seminars, awareness programs and A/L practical will be conducted to gain hands on 
-            experiences, discarding misconceptions on electrical field and giving day today electrical knowledge.
-          </p>
-        <ul class="about-button">
-          <li><a href="#" class="default-button">Visit Department Website</a></li>
-        </ul>
-      
-      </div><!-- container -->
-    </section>
-    <!-- About end here -->
-
-    <!-- Gallery start here -->
-    <section class="gallery gallery-about padding-60">
-      <div class="container">
-        <div class="section-header text-center">
-          <h3>Gallery</h3>
-        </div>
 
         <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
@@ -75,9 +47,31 @@
             </div><!-- gallery-item -->
           </div>
         </div><!-- row -->
+
+
+          <p>
+            Department of Electrical Engineering of University of Moratuwa is the best place to have a 
+            glorious seat of learning in Electrical Engineering. The department is committed to produce 
+            Electrical Engineering graduates that have been trained to face a diversity of challenges with 
+            emphasis on natural relevance, innovation and creativity and employability.<br /><br />
+
+            As a department with a broad scope of power engineering, electrical installation, electrical 
+            machinery and system automation and robotics, the department is planning to share out the 
+            technical knowledge with general public on the upcoming event “EXMO-2017”. It will be a 
+            non-intersecting opportunity for them to acknowledge well equipped laboratories dedicated 
+            to the areas of Electrical Measurements, Power Systems, Electrical Machines, Power Electronics, 
+            High Voltage, Electrical Installation and Robotics and Automation.<br /><br />
+
+            Special seminars, awareness programs and A/L practical will be conducted to gain hands on 
+            experiences, discarding misconceptions on electrical field and giving day today electrical knowledge.
+          </p>
+        <ul class="about-button">
+          <li><a href="http://www.elect.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+        </ul>
+      
       </div><!-- container -->
-    </section><!-- gallery -->
-    <!-- Gallery end here -->
+    </section>
+    <!-- About end here -->
 
     <?php 
      include("footer.php");
