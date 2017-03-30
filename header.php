@@ -19,16 +19,16 @@
                <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="chemical.php">Department of Chemical & Process Engineering</a></li>
-                  <li><a href="civil.php">Department of Civil Engineering</a></li>
-                  <li><a href="cse.php">Department of Computer Science & Engineering</a></li>
-                  <li><a href="erm.php">Department of Earth Resources Engineering</a></li>
-                  <li><a href="electrical.php">Department of Electrical Engineering</a></li>
-                  <li><a href="entc.php">Department of Electronic & Telecommunication Engineering</a></li>
-                  <li><a href="material.php">Department of Materials Science & Engineering</a></li>
-                  <li><a href="mechanical.php">Department of Mechanical Engineering</a></li>
-                  <li><a href="textile.php">Department of Textile & Clothing Technology</a></li>
-                  <li><a href="tlm.php">Department of Transport & Logistics</a></li> 
+                  <li><a href="chemical.php">Chemical & Process Engineering</a></li>
+                  <li><a href="civil.php">Civil Engineering</a></li>
+                  <li><a href="cse.php">Computer Science & Engineering</a></li>
+                  <li><a href="erm.php">Earth Resources Engineering</a></li>
+                  <li><a href="electrical.php">Electrical Engineering</a></li>
+                  <li><a href="entc.php">Electronic & Telecommunication Engineering</a></li>
+                  <li><a href="material.php"> Materials Science & Engineering</a></li>
+                  <li><a href="mechanical.php"> Mechanical Engineering</a></li>
+                  <li><a href="textile.php">Textile & Clothing Technology</a></li>
+                  <li><a href="tlm.php">Transport & Logistics</a></li> 
                 </ul>
               </li>
               <!--<li><a href="#schedule">Schedule</a></li>-->
