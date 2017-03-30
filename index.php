@@ -102,15 +102,14 @@
       <div class="overlay">
         <div class="container">
           <div class="section-header text-center">
-            <h3>Pricing Table</h3>
-            <p><em>Quickly harness dynamic thinking through value added models.</em></p>
+            <h3>Sponsors</h3>
           </div>
           <div class="pricing-items">
             <div class="row">
               <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="pricing-item first">
                   <div class="pricing-header">
-                    <h3 class="name">Basic</h3>
+                    <h3 class="name">Platinum</h3>
                     <h2 class="amount"><sup>$</sup>100</h2>
                   </div><!-- pricing-header -->
                   <div class="pricing-options">
@@ -123,13 +122,13 @@
                   </div><!-- pricing-options -->
 
                   <div class="pricing-button">
-                    <a href="#">ticket now</a>
+                    <a href="#">Reserve now</a>
                   </div>
                 </div>
               </div><div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="pricing-item second">
                   <div class="pricing-header">
-                    <h3 class="name">Silver</h3>
+                    <h3 class="name">Gold</h3>
                     <h2 class="amount"><sup>$</sup>200</h2>
                   </div><!-- pricing-header -->
                   <div class="pricing-options">
@@ -142,14 +141,14 @@
                   </div><!-- pricing-options -->
 
                   <div class="pricing-button">
-                    <a href="#">ticket now</a>
+                    <a href="#">Reserve now</a>
                   </div>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="pricing-item third">
                   <div class="pricing-header">
-                    <h3 class="name">gold</h3>
+                    <h3 class="name">Silver</h3>
                     <h2 class="amount"><sup>$</sup>250</h2>
                   </div><!-- pricing-header -->
                   <div class="pricing-options">
@@ -162,7 +161,7 @@
                   </div><!-- pricing-options -->
 
                   <div class="pricing-button">
-                    <a href="#">ticket now</a>
+                    <a href="#">Reserve now</a>
                   </div>
                 </div>
               </div>
