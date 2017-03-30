@@ -280,7 +280,7 @@
 @media only screen and (min-width: 768px) {
 	header .main-menu ul li ul, .navbar-right .dropdown-menu{
 		display: none;
-		width: 220px;
+		width: 620px;
 		left: 0px;
 		padding: 0px;
 		border: none;
