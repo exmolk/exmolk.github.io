@@ -49,10 +49,18 @@
 
 
         <p>
-          Phosrescently ntiate principle centered networks via magnetic services a Entusiasticaly streamline fulys tested metrics without freproof we services enabled 
-    Rapidiously evisculate standards compliant fullys tested metrics without futureproof web services anfullys tested metrics without futureproof web services
-    experiences bricks clicks a are aparadigmsRapidiously evisculate standards compliant web services are afor error free Assertively engineer areRapidiously 
-    Rapidiously evisculate standards compliant web services are afor error free
+          Srilanka has a growing world class ICT industry and the Department of Computer Science and Engineering produces 
+          the country’s leading Computer Science Engineers who drives the industry. The department has an excellent reputation 
+          among the technical people all over the world and it has a knack to anticipate new trends and train students who will 
+          be graduating as industry qualified. <br /><br />
+          
+          The department produces graduates who work on various innovative products, research and development projects such Big 
+          Data, Machine Learning, Artificial Intelligence, Image and Video Processing. Many great leaders have emerged from this 
+          department in the past and they continue to do so.<br /><br />
+          
+          In EXMO 2017, the students of the department will be enlightening visitors with some of the state of the art research 
+          products and inventions. Many of the products have won international awards and it will be a pleasant experience for 
+          those who visit the premises.
         </p>
         <ul class="about-button">
           <li><a href="http://www.cse.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>

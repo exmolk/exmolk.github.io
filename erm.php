@@ -49,11 +49,19 @@
 
 
         <p>
-The department of Earth Resource Engineering (ERE) of University of Moratuwa is the key pillar of Sri Lankan mining technology. The Earth Resource Engineering graduates created by University of Moratuwa are capable of many sectors including designing, planning and operation of surface and underground mines, tunnelling and industrial rock blasting, designing and managing mineral processing and aggregate preparation plants, exploration and mining of off-shore deposits, geophysical and geo-chemical investigations, geotechnical investigations for civil construction works, solving water, soil and air related pollution issues, petroleum exploration and processing, and all aspects of gemmology. <br/><br/>
-The vision of the department of Earth Resource Engineering is to achieve the goal in the creation of experience in the use of natural resources of the earth for the benefit of mankind and the continued research into its availability in the future.<br/><br/>
-Department of ERE will present many stunning demonstrations in the upcoming Exmo 2017 event, including a tunnel boring machine and an oil rig. Apart from these, a vast knowledge about geo-mining can be expected.
+			The department of Earth Resource Engineering (ERE) of University of Moratuwa is the key pillar of Sri Lankan mining 
+			technology. The Earth Resource Engineering graduates created by University of Moratuwa are capable of many sectors 
+			including designing, planning and operation of surface and underground mines, tunnelling and industrial rock blasting, 
+			designing and managing mineral processing and aggregate preparation plants, exploration and mining of off-shore deposits, 
+			geophysical and geo-chemical investigations, geotechnical investigations for civil construction works, solving water, 
+			soil and air related pollution issues, petroleum exploration and processing, and all aspects of gemmology.<br/><br/>
 
+			The vision of the department of Earth Resource Engineering is to achieve the goal in the creation of experience in the 
+			use of natural resources of the earth for the benefit of mankind and the continued research into its availability in the 
+			future.<br/><br/>
 
+			Department of ERE will present many stunning demonstrations in the upcoming Exmo 2017 event, including a tunnel boring 
+			machine and an oil rig. Apart from these, a vast knowledge about geo-mining can be expected.
         </p>
         <ul class="about-button">
           <li><a href="http://www.ere.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
