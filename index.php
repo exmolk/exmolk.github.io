@@ -66,10 +66,10 @@
           <div class="content-right">
             <div class="content">
               <h2> Exmo 2017</h2>
-              <h4 style="color:white "> Organized by University of Moratuwa </h4>
+              <h4 style="color:white "> Organized by Faculty of Engineering, University of Moratuwa. </h4>
               <ul>
             <li><span class="flaticon-tool"></span>28-29 April, 2017</li>
-            <li><span class="flaticon-signs"></span> University of Moratuwa, Katubedda, Moratuwa.</li>
+            <li><span class="flaticon-signs"></span> Katubedda, Moratuwa, Sri Lanka.</li>
               </ul>
               <div id="clockdiv">
                 <div class="clock-item">
@@ -125,9 +125,46 @@
             </div>
         </div>
         
+        <!--<p style="text-align: justify;">University of Moratuwa – Faculty of engineering proudly presents Exmo 2017 -
+                 the phenomenal engineering and technological exhibition of the era,
+				 <b>soon be open to the public.</b> A massive collection of innovations and research projects 
+                 are to be expected.</p>-->
+
          <p style="text-align: justify;">
 
+         <!--The Faculty of Engineering of University of
+Moratuwa is proudly presenting EXMO 2017 on 28th
+and 29th of April.  It is a platform to exhibit
+the remarkable achievements in research and
+innovation. 
+The exhibition will create enthusiasm
+among school children to become future engineers
+of Sri Lanka to fulfil the requirement of innovative
+entrepreneurs to develop our nation.
+EXMO 2017 will lead us to create the platform required for
+future university-industry collaborative research.-->
 
+
+
+
+
+
+
+
+The Faculty of Engineering, University of Moratuwa is organizing EXMO 
+2017 on 28th and 29th of April 2017 at the University Premises. 
+The main objective of the event is to provide a platform to unveil the creative and innovative ideas
+ of the talented young undergraduates through engineering design and research.
+  Hence the event will contribute to the technological awareness of general public. 
+Undergraduates of each and every department of the Engineering Faculty will have 
+the opportunity of sharing their creations and knowledge through the exhibition. 
+Educational demonstrations and awareness sessions will be carried out to enhance the knowledge of school students and general public in advance. 
+Final year research projects which explore new dimensions of science and technology will hold a prominent place, among the exhibits.
+ Undoubtedly EXMO 2017 is one of the biggest engineering exhibition in Sri Lanka with unique and innovative creations and demonstrations.
+
+
+
+<!--
 The Faculty of Engineering of University of
 Moratuwa is organizing EXMO 2017 on 28th
 and 29th of April to create a platform to exhibit
@@ -140,7 +177,7 @@ EXMO 2017
 Achievements always need finer appreciation.
 The undergraduates of the University of Moratuwa
 have always been instinctively excellent in the field of engineering with their researches and
-knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following objectives.
+knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following objectives.-->
 
 
               </p>
@@ -184,7 +221,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
                   </div>
                 </div><!-- row -->
                 <input type="text" name="subject" placeholder="Subject" class="contact-input">
-                <textarea rows="5" name="message" class="contact-input" placeholder="Massage" ></textarea>
+                <textarea rows="5" name="message" class="contact-input" placeholder="Message" ></textarea>
                 <input type="submit" name="submit" value="Send Message" class="contact-submit">
               </form>
             </div>
