@@ -51,7 +51,7 @@
 
         <p>
 		The Department of Electronic and Telecommunication Engineering moulds the brightest Sri Lankan minds to be innovators and
-		technology leaders throughout the globe. We shape the mind set our students to achieve brilliance through providing the 
+		technology leaders throughout the globe. We shape the mind set of our students to achieve brilliance through providing the 
 		best experience throughout the years of study and encouraging them to be the best in the world. <br /><br />
 		
 		We focus our research through four groups on intelligent machines, reconfigurable hardware, and machine vision and communication 
