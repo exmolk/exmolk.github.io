@@ -15,33 +15,21 @@
       <ul id="top" class="cb-slideshow">
 
 
-
-        <li><span><img height="100%" src="images/banner/1.jpg"></span><div></div></li>
+<!--
+        <li><span><img height="100%" src="images/banner/civil1.png"></span><div></div></li>
         <li><span><img height="100%" src="images/banner/2.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/3.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/4.jpg"></span><div></div></li>
         <li><span><img width="100%" src="images/banner/5.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/6.jpg"></span><div></div></li>
-
-        <!--<li><span><div class="img_slide_container" style=" background-image: url('images/banner/1.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/2.jpg');"></span><div></div></li>
-        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/3.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/4.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/5.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/6.jpg');"></span><div></div></li>
-        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/1.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/2.jpg');"></span><div></div></li>
-        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/3.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/4.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/5.jpg');"></span><div></div></li>
-         <li><span><div class="img_slide_container" style=" background-image: url('images/banner/6.jpg');"></span><div></div></li>-->
-         <!--<li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>
-        <li><span><div class="img_slide_container" style=" background-image: url('images/banner/uni.jpg');"></span><div></div></li>-->
-        <!--<li><span>Image 02</span><div></div></li>
-        <li><span>Image 03</span><div></div></li>
-        <li><span>Image 04</span><div></div></li>
-        <li><span>Image 05</span><div></div></li>
-        <li><span>Image 06</span><div></div></li>-->
+        <li><span><img width="100%" src="images/banner/6.jpg"></span><div></div></li>-->
+        <li><span style="background-image: url('images/banner/civil1.png');" >Image 01</span><div></div></li>
+        <li><span style="background-image: url('images/banner/cse1.jpg');" >Image 02</span><div></div></li>
+        <li><span style="background-image: url('images/banner/elec1.jpg');" >Image 03</span><div></div></li>
+        <li><span style="background-image: url('images/banner/mech1.jpg');" >Image 04</span><div></div></li>
+        <li><span style="background-image: url('images/banner/tronic1.jpg');" >Image 05</span><div></div></li>
+        <li><span style="background-image: url('images/banner/mech2.jpg');" >Image 06</span><div></div></li>
+        <li><span style="background-image: url('images/banner/cse2.jpeg');" >Image 07</span><div></div></li>
+        <li><span style="background-image: url('images/banner/tronic2.jpg');" >Image 08</span><div></div></li>
       </ul>
       <!--<div class="content-right" style="background-color:rgba(0,0,0,0)">
 
@@ -155,7 +143,7 @@ The Faculty of Engineering, University of Moratuwa is organizing EXMO
 2017 on 28th and 29th of April 2017 at the University Premises. 
 The main objective of the event is to provide a platform to unveil the creative and innovative ideas
  of the talented young undergraduates through engineering design and research.
-  Hence the event will contribute to the technological awareness of general public. 
+  Hence the event will contribute to the technological awareness of general public.
 Undergraduates of each and every department of the Engineering Faculty will have 
 the opportunity of sharing their creations and knowledge through the exhibition. 
 Educational demonstrations and awareness sessions will be carried out to enhance the knowledge of school students and general public in advance. 

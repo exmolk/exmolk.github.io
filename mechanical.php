@@ -52,9 +52,7 @@
 
 
         <p>
-		Department of Mechanical Engineering of University of Moratuwa is the leading department on Mechanical Engineering in Sri Lanka. 
-		The department is dedicated to researches and innovations in various fields including automotive engineering, energy 
-		engineering, product design and manufacturing engineering and mechatronics and automation.<br /><br />
+		Department of Mechanical Engineering of University of Moratuwa is one of the leading departments on Mechanical Engineering in Sri Lanka. The department is dedicated to researches and innovations in various fields including Automotive Engineering, Aeronautical Engineering, Energy, Product Design and Manufacturing, Biomedical and Sports Engineering, Mechatronics and Robotics. <br /><br />
 		
 		The mission of the Department of Mechanical Engineering of University of Moratuwa is to produce engineers and researchers with 
 		sound knowledge on fundamentals of traditional, modern and emerging areas of engineering together with innovative design 
