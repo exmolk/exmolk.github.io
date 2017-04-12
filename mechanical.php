@@ -22,9 +22,9 @@
         <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="gallery-item">
-              <img src="images/departments/mechanical/mech_img_01.jpg" alt="gallery image" class="img-responsive">
+              <img src="images/departments/mechanical/mech1.jpg" alt="gallery image" class="img-responsive">
               <div class="overlay"></div>
-              <a href="images/departments/mechanical/mech_img_01.jpg" data-rel="lightcase:myCollection">
+              <a href="images/departments/mechanical/mech1.jpg" data-rel="lightcase:myCollection">
                 <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
               </a>
             </div><!-- gallery-item -->
