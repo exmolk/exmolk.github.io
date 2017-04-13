@@ -15,13 +15,6 @@
       <ul id="top" class="cb-slideshow">
 
 
-<!--
-        <li><span><img height="100%" src="images/banner/civil1.png"></span><div></div></li>
-        <li><span><img height="100%" src="images/banner/2.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/3.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/4.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/5.jpg"></span><div></div></li>
-        <li><span><img width="100%" src="images/banner/6.jpg"></span><div></div></li>-->
         <li><span style="background-image: url('images/banner/civil1.png');" >Image 01</span><div></div></li>
         <li><span style="background-image: url('images/banner/cse1.jpg');" >Image 02</span><div></div></li>
         <li><span style="background-image: url('images/banner/elec1.jpg');" >Image 03</span><div></div></li>
