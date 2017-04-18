@@ -176,6 +176,56 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
     <!-- About end here -->
 
 
+
+    <!-- Sponsor start here -->
+    <section class="sponsor sponsor-two padding-120">
+      <div class="container">
+        <div class="section-header text-center">
+          <h3>Event Sponsors</h3>
+        </div>
+
+        <div class="sponsor-item">
+          <div class="swiper-container sponsor-slider-one">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                    <img src="images/sponsors/mas-logo.png" alt="sponsor image" style="width:100%">
+                    <div class="caption">
+                      <p>Platinum Sponsor</p>
+                    </div>
+                  </a>
+                </div>       
+              </div>
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                    <img src="images/sponsors/uni-logo.png" alt="sponsor image" style="width:100%">
+                    <div class="caption">
+                      <p>Co-Sponsor</p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                    <img src="images/sponsors/eh-logo.png" alt="sponsor image" style="width:100%">
+                    <div class="caption">
+                      <p>Beverage Partner</p>
+                    </div>
+                  </a>
+                </div>    
+              </div>
+            </div>
+          </div>
+        </div><!-- sponsor-item -->
+        <a href="#contact" class="sponsor-button default-button">Contact Us To become a partner</a>
+      </div><!-- container -->
+    </section><!-- sponsor -->
+    <!-- Sponsor end here -->
+
+
     <!-- Map start here -->
     <section class="home-map">
       <div id="home-map" class="map"></div>
@@ -242,6 +292,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
               <ul class="event-social">
                 <li><a href="https://www.facebook.com/EXMOUOM/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                 <li><a href="https://twitter.com/MoratuwaUni" style="background-color: #55acee;"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.instagram.com/exmo2017" style="background-color: #55acee;"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                 <!--<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
               </ul>
             </div><!-- contact-info -->

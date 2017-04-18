@@ -41,6 +41,12 @@
     background-position: 50% 50%;
 }​
 
+/* css */
+.no-resize {
+  max-height: 40px;
+  max-width: 50px;
+}
+
 /*
   1.0 - Normalize
  */
