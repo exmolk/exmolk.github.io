@@ -33,6 +33,16 @@
               </li>
               <!--<li><a href="#schedule">Schedule</a></li>-->
               <!--<li><a href="index.php#partner">Become a partner</a></li>-->
+
+               <!--<li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Competitions<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="competition-cadmo.php">CADMO 2017</a></li>
+                </ul>
+              </li>-->
+
+
               <li><a href="index.php#contact">Contact</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->

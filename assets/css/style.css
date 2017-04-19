@@ -26,6 +26,27 @@
 ----------------------------------------------*/
 
 /* -------------- New ------------------------*/
+.long-content{
+    text-align: left;
+}
+
+.long-content>p{
+    text-align: justify;
+}
+
+.long-content > ul {
+    padding-left: 30px;
+    font-size: 15px;
+    color: #696969;
+    line-height: 24px;
+    margin: 0 0 1.75em;
+}
+
+.long-content>h4{ 
+    display: inline-block;
+    padding-bottom:12px;
+}
+
 @media only screen and (min-width: 768px) {
 	header .main-menu ul li ul, .navbar-right .dropdown-menu{
 		display: none;

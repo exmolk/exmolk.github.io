@@ -59,7 +59,7 @@
 		abilities, IT and managerial skills, which are essential to achieve sustainable national development.<br /><br />
 		
 		On the upcoming event Exmo -2017, the department will be open to public with many breathtaking inventions, innovations and 
-		creations along with workshops to enlighten your day today mechanical knowledge, Computer Aided Design competitions and the 
+		creations along with workshops to enlighten your day today mechanical knowledge, <a style="color:#337ab7;" href="competition-cadmo.php"> <b>CADMO 2017 - Computer Aided Design Competition</b></a>  and the 
 		first ever car which competed in the IMechE - Formula Student Racing 2016 held in Silverstone – UK, bringing three awards to 
 		Sri Lanka.
 		</p>
