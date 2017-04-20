@@ -68,7 +68,7 @@
     of long hours of hard work, keen knowledge of latest trends, creativity and innovativeness.<br /><br />
 		</p>
         <ul class="about-button">
-          <li><a href="http://www.mrt.ac.lk" class="default-button">Visit Department Website</a></li>
+          <li><a href="http://www.textile.mrt.ac.lk/bdesign.html" class="default-button">Visit Department Website</a></li>
         </ul>
       
       </div><!-- container -->

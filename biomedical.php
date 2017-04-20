@@ -69,7 +69,7 @@
     of Sri Lanka and the world at large.
 		</p>
         <ul class="about-button">
-          <li><a href="http://www.ent.mrt.ac.lk/web3/" class="default-button">Visit Department Website</a></li>
+          <li><a href="http://www.ent.mrt.ac.lk/bme/index.php/about-us/8-about-us/1-bme" class="default-button">Visit Department Website</a></li>
         </ul>
       
       </div><!-- container -->
