@@ -2280,6 +2280,19 @@ header .menu-four.menu-four-bg ul li ul{
     color: #aeaeae;
 }
 
+.thumbnail .caption {
+    background: black;
+    color: black;
+}
+
+.thumbnail p{
+    font-size: 15px;
+    color: #EAEAEA;
+    text-transform: uppercase;
+    line-height: 24px;
+    margin: 1px;
+}
+
 /*  11  - Gallery
 ----------------------------------------------*/
 .gallery{

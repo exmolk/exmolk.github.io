@@ -175,14 +175,20 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
     </section>
     <!-- About end here -->
 
-
-
-    <!-- Sponsor start here -->
     <section class="sponsor sponsor-two padding-120">
       <div class="container">
         <div class="section-header text-center">
           <h3>Event Sponsors</h3>
         </div>
+
+        <div class="thumbnail">
+          <a href="#">
+	        <div class="caption">
+	          <p><i>Platinum Sponsor</i></p>
+	        </div>
+	        <img src="images/sponsors/mas-logo.png" alt="sponsor image" style="width:33%">
+          </a>
+	    </div>
 
         <div class="sponsor-item">
           <div class="swiper-container sponsor-slider-one">
@@ -190,30 +196,30 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/sponsors/mas-logo.png" alt="sponsor image" style="width:100%">
-                    <div class="caption">
-                      <p>Platinum Sponsor</p>
+                  	<div class="caption">
+                      <p><i>Co Sponsor</i></p>
                     </div>
+                    <img src="images/sponsors/icc-logo.png" alt="sponsor image" style="width:100%">
                   </a>
                 </div>       
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/sponsors/uni-logo.png" alt="sponsor image" style="width:100%">
-                    <div class="caption">
-                      <p>Co-Sponsor</p>
+                  	<div class="caption">
+                      <p><i>Co-Sponsor</i></p>
                     </div>
+                    <img src="images/sponsors/uni-logo.png" alt="sponsor image" style="width:100%">                    
                   </a>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/sponsors/eh-logo.png" alt="sponsor image" style="width:100%">
-                    <div class="caption">
-                      <p>Beverage Partner</p>
+                  	<div class="caption">
+                      <p><i>Beverage Partner</i></p>
                     </div>
+                    <img src="images/sponsors/eh-logo.png" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
