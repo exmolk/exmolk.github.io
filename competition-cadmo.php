@@ -94,7 +94,9 @@
 
 <p>
 CADMO 2017 is a computer aided modeling competition organized by the University of Moratuwa Mechanical Engineers Society (UMMES) which will be held on 28th of April from 9.00 onwards at the Department of Mechanical Engineering. CADMO 2017 is being held for the first time in this year associated with the upcoming science and technology exhibition “EXMO 2017”. The competition is open for the public and private sector universities, institutes and technical colleges in Sri Lanka.
-AIM
+</p>
+<h4>AIM</h4>
+<p>
 Value the conceptual design capability of the young generation through computer aided 3D modelling. 
 </p>
 <h4>ORGANIZED BY </h4>
