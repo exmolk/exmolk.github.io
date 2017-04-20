@@ -26,7 +26,7 @@
                   <li><a href="erm.php">Earth Resources Engineering</a></li>
                   <li><a href="electrical.php">Electrical Engineering</a></li>
                   <li><a href="entc.php">Electronic & Telecommunication Engineering</a></li>
-                  <li><a href="fd.php">Fashion Designing</a></li>
+                  <!--<li><a href="fd.php">Fashion Designing</a></li>-->
                   <li><a href="material.php"> Materials Science & Engineering</a></li>
                   <li><a href="mechanical.php"> Mechanical Engineering</a></li>
                   <li><a href="textile.php">Textile & Clothing Technology</a></li>

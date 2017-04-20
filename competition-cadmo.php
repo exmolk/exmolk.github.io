@@ -113,8 +113,22 @@ Value the conceptual design capability of the young generation through computer 
     </a>
     </div>  
     </div> 
+    
+    <div class="col-md-4 col-sm-4 col-xs-12">
+    <div class="thumbnail">
+    <a href="#">
+    <img src="images/departments/mechanical/UmmesLogo.png" alt="sponsor image" >
+    <div class="caption">
+    <p>
+      University of Moratuwa Mechanical Engineering Society - UMMES<br/>
 
-          <div class="col-md-4 col-sm-4 col-xs-12">
+    </p>
+    </div>
+    </a>
+    </div> 
+    </div>
+
+    <div class="col-md-4 col-sm-4 col-xs-12">
     <div class="thumbnail">
     <a href="#">
     <img src="images/departments/mechanical/exmo-logo.png" alt="sponsor image" >
@@ -193,7 +207,7 @@ CONTACT DETAILS
 </h4>
 <ul>
 <li>Nadith Lalinda		+94716114018 </li>
-<li>Chamath Madhusha		+94717437626</li>
+<li>Chamath Madushan		+94717437626</li>
 </ul>
 <h4>
 REGISTRATION 
