@@ -50,11 +50,22 @@
 
 
         <p>
-		Content goes here.<br /><br />
-		
-		Content goes here.<br /><br />
-		
-		Content goes here.
+    Under the Department of Textile and Clothing Technology, University of Moratuwa, offers the Bachelor 
+    of design in Fashion Design and Product Development degree program.<br /><br />
+    
+    <i>“It should really be contemporary and we should be answering people’s needs”</i> quoted by Calvin Klein.<br /><br />
+
+    Fashion industry is a multibillion-dollar global enterprise devoted to the business of making and selling 
+    clothes which can also influence towards human culture, social attitudes, trends, customs and norms. It’s 
+    the fundamental art of applying design and aesthetics in to a wearable and functional outcome. Therefore 
+    it’s a new direction of creativity and technology meets each other.<br /><br />
+
+    Our mission is to develop young professionals to build a creative flair and polish their communication 
+    skills, business marketing skills, technological skills, and managerial skills. We encourage of having 
+    a passion for fashion in order to succeed with cutting edge products.<br /><br />
+
+    Our work will be open to public on this upcoming event of Exmo- 2017, which will leave a clear understanding 
+    of long hours of hard work, keen knowledge of latest trends, creativity and innovativeness.<br /><br />
 		</p>
         <ul class="about-button">
           <li><a href="http://www.mrt.ac.lk" class="default-button">Visit Department Website</a></li>
