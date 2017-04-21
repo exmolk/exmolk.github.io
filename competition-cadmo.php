@@ -99,6 +99,23 @@ CADMO 2017 is a computer aided modeling competition organized by the University 
 <p>
 Value the conceptual design capability of the young generation through computer aided 3D modelling. 
 </p>
+
+
+<h4>Main Sponsor </h4>
+ <div class="row">
+          <div class="col-md-4 col-sm-4 col-xs-12">
+    <div class="thumbnail">
+    <a href="#">
+    <img src="images/departments/mechanical/sponsor.jpg" alt="sponsor image" >
+    <div class="caption">
+    <p>ACECAM (Pvt) Ltd.
+    </p>
+    </div>
+    </a>
+    </div>  
+    </div> 
+    </div>
+
 <h4>ORGANIZED BY </h4>
  <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
@@ -151,9 +168,8 @@ University of Moratuwa
 <p>Competition is open for the students of public and private sector Universities, Institutes and technical colleges in Sri Lanka as groups including two members each. Participants have to confirm their studentship of the respective university or the institute by providing valid identity cards of the university or the institute.</p>
 
 <h4>REQUIREMENTS</h4>
-<p>Participants will have to bring Solidworks 2012/2013/2014 version installed computers with a three button mouse. (2014 version is preferred). 
-Participants will have to submit the details of their computers before bringing them into the university premises due to security reasons.
-13A Power supplies will be provided for the Laptops. Other required fittings (Ex: Multi Plugs) will have to be supplied by yourselves.
+<p>
+Participants will have to bring SolidWorks 2014/2016 version installed Laptop computer (If needed temporary license will be provided) with a three button mouse. Participants will have to submit the details of their Laptop computers before bringing them into the university premises due to security reasons. 13A Power supplies will be provided for the Laptops. Other required fittings (Ex: Multi Plugs) will have to be supplied by yourselves.
 </p>
 
 <h4>REGULATIONS</h4>
@@ -195,12 +211,12 @@ Five distinguished personalities from elite universities and the industry will b
 
 <h4>PRIZES</h4>
 <ul>
-<li>Winning Team			10,000 LKR </li>
-<li>Runner up team			7,500 LKR </li>
-<li>Second runner up Team		5,000 LKR </li>
+<li>Winning Team			20,000 LKR </li>
+<li>Runner up team			12,000 LKR </li>
+<li>Second runner up Team		8,000 LKR </li>
 </ul>
 <p>
-All the participants will get a valuable certificate for participation.
+All the participants will get a Valuable certificate in association with SolidWorks for participation. 
 </p>
 <h4>
 CONTACT DETAILS
