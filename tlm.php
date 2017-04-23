@@ -65,6 +65,11 @@
       		the department. Also public will be able to experience the process of an airport and hope that would be a first time experience 
       		to them.
       		</p>
+
+          <p>
+            <b>QuizMO Competition</b>
+            <a style="color:#337ab7;" href="competition-quizmo.php">Find more the competition</a>
+          </p>
         <ul class="about-button">
           <li><a href="http://www.tlm.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
         </ul>

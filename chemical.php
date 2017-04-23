@@ -59,8 +59,10 @@
       		
       		In EXMO-2017, the department is ready to share the technical and innovative ideas and knowledge of our undergraduates under 
       		the sections of petroleum, food and biochemical, energy and environmental and polymer engineering. We warmly welcome you to 
-      		the department of chemical and process engineering to witness the Excellency of our masterpieces.
+      		the department of chemical and process engineering to witness the Excellency of our masterpieces.<br /><br />
+          <a style="color:#337ab7;" href="competition-chem.php"> <b>Quiz Competition</b></a>
     		</p>
+
         <ul class="about-button">
           <li><a href="http://www.cpe.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
         </ul>      
