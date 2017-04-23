@@ -158,3 +158,31 @@
     });
 	
 })(jQuery);	  
+
+
+var lines = [ 
+  "     Seems like you know some programming.  ",
+  "     Visic Computer Science & Engineering Department to see modern programming.",
+  "",
+  "      #####    #####   ####### ",
+  "     #     #  #     #  # ",
+  "     #        #        # ",
+  "     #         #####   #####  ",
+  "     #              #  #  ",
+  "     #     #  #     #  #    ",
+  "      #####    #####   ####### ",
+  "      Come     See     Enjoy;"                                                                                                
+]
+
+for(i of lines){
+  console.warn(i);
+}
+
+
+      
+      
+ 
+     
+   
+
+                           
