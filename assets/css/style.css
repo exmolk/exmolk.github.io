@@ -1,4 +1,4 @@
-/*---------------------------------------------
+﻿/*---------------------------------------------
 			Table of CONTENT
 -----------------------------------------------
 	01. Default CSS
@@ -2243,7 +2243,10 @@ header .menu-four.menu-four-bg ul li ul{
 .sponsor .section-header p{
     color: #fff;
 }
-.sponsor .sponsor-item{
+.sponsor .sponsor-item1{
+    text-align: center;
+}
+.sponsor .sponsor-item2{
     text-align: center;
     margin-bottom: 50px;
 }

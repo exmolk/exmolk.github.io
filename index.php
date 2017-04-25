@@ -190,8 +190,8 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
           </a>
 	    </div>
 
-        <div class="sponsor-item">
-          <div class="swiper-container sponsor-slider-two">
+        <div class="sponsor-item1">
+          <div class="swiper-container sponsor-slider-one">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="thumbnail">
@@ -223,6 +223,33 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
                   </a>
                 </div>       
               </div>
+            </div>
+          </div>
+        </div><!-- sponsor-item -->
+
+        <div class="sponsor-item2">
+          <div class="swiper-container sponsor-slider-one">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                  	<div class="caption">
+                      <p><i>Healthcare Partner</i></p>
+                    </div>
+                    <img src="images/sponsors/asiri-logo.png" alt="sponsor image" style="width:100%">                    
+                  </a>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                  	<div class="caption">
+                      <p><i>Electronic Media Partner</i></p>
+                    </div>
+                    <img src="images/sponsors/rupavahini-logo.png" alt="sponsor image" style="width:100%">
+                  </a>
+                </div>       
+              </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
@@ -235,7 +262,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
               </div>
             </div>
           </div>
-        </div><!-- sponsor-item -->
+        </div>
         <a href="#contact" class="sponsor-button default-button">Contact Us To become a partner</a>
       </div><!-- container -->
     </section><!-- sponsor -->
