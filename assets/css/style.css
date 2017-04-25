@@ -687,7 +687,7 @@ header .main-menu ul li.active > a, header .main-menu ul li a:hover, header .mai
 }
 .nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
     background-color: transparent;
-    color: #fff;
+    color: #20619e;
     border: none;
 }
 header .main-menu ul li ul li > a{
@@ -862,7 +862,7 @@ header .menu-four.menu-four-bg ul li ul{
 .banner{
     
     /*background-image: url(../../images/banner/banner.jpg);*/
-    background-image: url("images/banner/civil1.png");
+    background-image: url("../../images/banner/civil1.png");
     background-position: 50% 50%;
     background-size: cover;
     height: 100vh;

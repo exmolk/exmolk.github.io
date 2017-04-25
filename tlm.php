@@ -63,13 +63,8 @@
       		In the upcoming event Exmo-2017 the department will allow the public in order to have a clear idea about the scope of the 
       		subject alongside with the innovative inventions which came to the reality with the practical knowledge of the students of 
       		the department. Also public will be able to experience the process of an airport and hope that would be a first time experience 
-      		to them.
+      		to them. Further, there will be <b> <a style="color:#337ab7;" href="competition-quizmo.php">TLM QuizMO 2017</a></b>, general knowledge quiz competition  which will be held on both 28th and 29th of April from 9.00AM onwards
       		</p>
-
-          <p>
-            <b>QuizMO Competition</b>
-            <a style="color:#337ab7;" href="competition-quizmo.php">Find more the competition</a>
-          </p>
         <ul class="about-button">
           <li><a href="http://www.tlm.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
         </ul>

@@ -191,7 +191,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
 	    </div>
 
         <div class="sponsor-item">
-          <div class="swiper-container sponsor-slider-one">
+          <div class="swiper-container sponsor-slider-two">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="thumbnail">
@@ -212,6 +212,16 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
                     <img src="images/sponsors/uni-logo.png" alt="sponsor image" style="width:100%">                    
                   </a>
                 </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                  	<div class="caption">
+                      <p><i>Co Sponsor</i></p>
+                    </div>
+                    <img src="images/sponsors/mit-logo.png" alt="sponsor image" style="width:100%">
+                  </a>
+                </div>       
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">

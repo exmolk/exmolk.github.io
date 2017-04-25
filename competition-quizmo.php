@@ -16,62 +16,7 @@
           <h2>QuizMO 2017</h2>
         </div>
 
-		<!--Slider Item-->
-		<div class="sponsor-item">
-          <div class="swiper-container sponsor-slider-one">
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo1.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>       
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo2.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo3.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo4.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo5.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo6.png" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo7.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-            </div>
-          </div>
-        </div><!-- Slider-item -->
+	
 	
 		<!--Content-->
 		<div class="long-content">
@@ -82,7 +27,11 @@
 			    <div class="col-md-4 col-sm-4 col-xs-12">
 				    <div class="thumbnail">
 					    <a href="#">
-					    	<img src="images/departments/mechanical/cadmo_logo.png" alt="sponsor image" >
+					    	<img src="images/departments/tlm/logo.png" alt="sponsor image" >
+                <div class="caption">
+                <p>QuizMO 2017
+                </p>
+                </div>
 			    		</a>
 			    	</div>  
 			    </div> 

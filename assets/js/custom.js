@@ -161,22 +161,43 @@
 
 
 var lines = [ 
-  "     Seems like you know some programming.  ",
-  "     Visic Computer Science & Engineering Department to see modern programming.",
-  "",
-  "      #####    #####   ####### ",
-  "     #     #  #     #  # ",
-  "     #        #        # ",
-  "     #         #####   #####  ",
-  "     #              #  #  ",
-  "     #     #  #     #  #    ",
-  "      #####    #####   ####### ",
-  "      Come     See     Enjoy;"                                                                                                
-]
+  "================================================",
+  "Looks like you know your way around computers. Visit Computer Science & Engineering Department.",
+  "We have many surprises for you!",
+  "",                                                                      
+  " ",                                                                        
+  "        CCCCCCCCCCCCC        SSSSSSSSSSSSSSS      EEEEEEEEEEEEEEEEEEEEEE",
+  "     CCC::::::::::::C      SS:::::::::::::::S     E::::::::::::::::::::E",
+  "   CC:::::::::::::::C     S:::::SSSSSS::::::S     E::::::::::::::::::::E",
+  "  C:::::CCCCCCCC::::C     S:::::S     SSSSSSS     EE::::::EEEEEEEEE::::E",
+  " C:::::C       CCCCCC     S:::::S                   E:::::E       EEEEEE",
+  "C:::::C                   S:::::S                   E:::::E             ",
+  "C:::::C                    S::::SSSS                E::::::EEEEEEEEEE   ",
+  "C:::::C                     SS::::::SSSSS           E:::::::::::::::E   ",
+  "C:::::C                       SSS::::::::SS         E:::::::::::::::E   ",
+  "C:::::C                          SSSSSS::::S        E::::::EEEEEEEEEE   ",
+  "C:::::C                               S:::::S       E:::::E             ",
+  " C:::::C       CCCCCC                 S:::::S       E:::::E       EEEEEE",
+  "  C:::::CCCCCCCC::::C     SSSSSSS     S:::::S     EE::::::EEEEEEEE:::::E",
+  "   CC:::::::::::::::C     S::::::SSSSSS:::::S     E::::::::::::::::::::E",
+  "     CCC::::::::::::C     S:::::::::::::::SS      E::::::::::::::::::::E",
+  "        CCCCCCCCCCCCC      SSSSSSSSSSSSSSS        EEEEEEEEEEEEEEEEEEEEEE",
 
-for(i of lines){
-  console.warn(i);
+  "       Come          See              Enjoy!\n================================================",
+                                                                                              
+]
+var css = 'color: red;';
+var css2 = 'color: green; font-weight: bold; font-size:12px;';
+var css3 = 'color: green; font-weight: bold; font-size:18px;';
+
+console.log("%c%s", css3, lines[0]);
+console.log("%c%s", css2, lines[1]);
+console.log("%c%s", css2, lines[2]);
+for(i = 3; i < lines.length-1; i ++){
+    console.log("%c%s", css, lines[i]);
 }
+
+console.log("%c%s", css3, lines[lines.length-1]);
 
 
       

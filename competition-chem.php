@@ -15,78 +15,12 @@
         <div class="section-header text-center">
           <h2>Chemical Quiz Competition</h2>
         </div>
-
-		<!--Slider Item-->
-		<div class="sponsor-item">
-          <div class="swiper-container sponsor-slider-one">
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo1.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>       
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo2.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo3.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo4.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo5.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo6.png" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-              <div class="swiper-slide">
-                <div class="thumbnail">
-                  <a href="#">
-                    <img src="images/departments/mechanical/cadmo7.jpg" alt="sponsor image" style="width:100%">
-                  </a>
-                </div>    
-              </div>
-            </div>
-          </div>
-        </div><!-- Slider-item -->
 	
 		<!--Content-->
 		<div class="long-content">
 
 			<h4>OVERVIEW </h4>
 
-			<div class="row">
-			    <div class="col-md-4 col-sm-4 col-xs-12">
-				    <div class="thumbnail">
-					    <a href="#">
-					    	<img src="images/sponsors/chevron-logo.jpg" alt="sponsor image" >
-			    		</a>
-			    	</div>  
-			    </div> 
-			</div>  
 
 			<p>
 			Parallel to EXMO 2017, the Premier Engineering and Innovation Exhibition of Sri Lanka, the Department of Chemical 
@@ -98,6 +32,22 @@
 
       At the end of the exhibition all the winners of this competition will be awarded with valuable prizes.
 			</p>
+
+      
+<h4>Main Sponsor </h4>
+			<div class="row">
+			    <div class="col-md-4 col-sm-4 col-xs-12">
+				    <div class="thumbnail">
+					    <a href="#">
+					    	<img src="images/departments/chemical/chevron-logo.jpg" alt="sponsor image" >
+                <div class="caption">
+                <p>Chevron Lubricant Lanka PLC
+                </p>
+                </div>
+			    		</a>
+			    	</div>  
+			    </div> 
+			</div>  
 
 		</div><!--Content-->        
       

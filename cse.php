@@ -20,18 +20,18 @@
         <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="gallery-item">
-              <img src="images/departments/cse/cse_img_01.jpg" alt="gallery image" class="img-responsive">
+              <img src="images/departments/cse/a2.png" alt="gallery image" class="img-responsive">
               <div class="overlay"></div>
-              <a href="images/departments/cse/cse_img_01.jpg" data-rel="lightcase:myCollection">
+              <a href="images/departments/cse/a2.png" data-rel="lightcase:myCollection">
                 <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
               </a>
             </div><!-- gallery-item -->
           </div>
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="gallery-item">
-              <img src="images/departments/cse/cse_img_02.jpg" alt="gallery image" class="img-responsive">
+              <img src="images/departments/cse/a1.png" alt="gallery image" class="img-responsive">
               <div class="overlay"></div>
-              <a href="images/departments/cse/cse_img_02.jpg" data-rel="lightcase:myCollection">
+              <a href="images/departments/cse/a1.png" data-rel="lightcase:myCollection">
                 <img src="images/gallery/gallery-icon.png" alt="gallery icon" class="img-responsive">
               </a>
             </div><!-- gallery-item -->

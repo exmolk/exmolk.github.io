@@ -306,9 +306,9 @@
 	header .main-menu .navbar-toggle .icon-bar{
 		background-color: #20619e;
 	}
-	header .main-menu .navbar-collapse{
+	/*header .main-menu .navbar-collapse{
 		max-height: 220px;
-	}
+	}*/
 	header .main-menu .navbar-brand {
 	    padding: 30px 15px;
 	}
