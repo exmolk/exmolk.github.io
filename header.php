@@ -36,13 +36,16 @@
               <!--<li><a href="#schedule">Schedule</a></li>-->
               <!--<li><a href="index.php#partner">Become a partner</a></li>-->
 
-               <!--<li class="dropdown">
+               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                  Competitions<span class="caret"></span></a>
+                  Special Events<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="competition-cadmo.php">CADMO 2017</a></li>
+                  <li><a href="competition-chem.php">Chemical Quiz Competition</a></li>
+                  <li><a href="competition-quizmo.php">QuizMO 2017</a></li>
+                  <li><a href="photography-cse.php">CSE Photo Exhibition</a></li>
                 </ul>
-              </li>-->
+              </li>
 
 
               <li><a href="index.php#contact">Contact</a></li>

@@ -23,91 +23,91 @@
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex1.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex1.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>       
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex2.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex2.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex3.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex3.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex4.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex4.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex5.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex5.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex6.png" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex6.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex7.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex7.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex8.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex8.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex9.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex9.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex10.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex10.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex11.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex11.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex12.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex12.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
               <div class="swiper-slide">
                 <div class="thumbnail">
                   <a href="#">
-                    <img src="images/departments/cse/ex13.jpg" alt="sponsor image" style="width:100%">
+                    <img src="images/departments/cse/photography/ex13.jpg" alt="sponsor image" style="width:100%">
                   </a>
                 </div>    
               </div>
@@ -129,9 +129,7 @@
 		way you see them.<br /><br />
 
 		Though these students study Engineering streams, they have an artistic eye and taste towards artistic observation. 
-		There are many skilled and talented photographers among them as well.<br /><br />
-
-		Lecturer: Akila Panditha
+		There are many skilled and talented photographers among them as well.
 	</p>
       
     </div><!-- container -->
