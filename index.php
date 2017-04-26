@@ -225,7 +225,7 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
         </div><!-- sponsor-item -->
 
         <div class="sponsor-item2">
-          <div class="swiper-container sponsor-slider-one">
+          <div class="swiper-container sponsor-slider-three">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="thumbnail">
@@ -257,6 +257,30 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
                   </a>
                 </div>    
               </div>
+
+              <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                  	<div class="caption">
+                      <p><i>Printed Media Partner</i></p>
+                    </div>
+                    <img src="images/sponsors/div-logo.png" alt="sponsor image" style="width:100%">
+                  </a>
+                </div>    
+              </div>
+
+               <div class="swiper-slide">
+                <div class="thumbnail">
+                  <a href="#">
+                  	<div class="caption">
+                      <p><i>Pay Tv Partner</i></p>
+                    </div>
+                    <img src="images/sponsors/peo-logo.png" alt="sponsor image" style="width:100%">
+                  </a>
+                </div>    
+              </div>
+
+
             </div>
           </div>
         </div>
