@@ -61,10 +61,31 @@
       		the sections of petroleum, food and biochemical, energy and environmental and polymer engineering. Further, there will be a <a style="color:#337ab7;" href="competition-chem.php"> <b>quiz competition</b></a> for the O/L, A/L students on both days 28th and 29th of April from 9.00 am onwards. We warmly welcome you to 
       		the department of chemical and process engineering to witness the Excellency of our masterpieces.<br /><br />
     		</p>
+           
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672414673064805/"
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672414673064805/" 
+                class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/EXMOUOM/videos/1672414673064805/">
+                  Department of Chemical and Process Engineering</a>
+                  <p>We welcome you all to witness what the Department of Chemical and Process Engineering  will offer at 
+                  EXMO 2017. #EXMO2017 #UOM</p>
+                  Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Monday, 
+                  April 24, 2017
+              </blockquote>
+          </div>
+     
+          <br />
+           <ul class="about-button">
+            <li><a href="http://www.cpe.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+           </ul> 
+        </div>
 
-        <ul class="about-button">
-          <li><a href="http://www.cpe.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>      
       </div><!-- container -->
     </section>
     <!-- About end here -->

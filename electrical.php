@@ -65,10 +65,32 @@
             Special seminars, awareness programs and A/L practical will be conducted to gain hands on 
             experiences, discarding misconceptions on electrical field and giving day today electrical knowledge.
           </p>
-        <ul class="about-button">
-          <li><a href="http://www.elect.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
-      
+        
+
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672869963019276/" 
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672869963019276/" 
+                class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/EXMOUOM/videos/1672869963019276/">
+                    Department of Electrical Engineering - University of Moratuwa</a>
+                    <p>We welcome you all to witness what the Department of Electrical Engineering will offer 
+                    at EXMO 2017. #EXMO2017 #UOM</p>
+                    Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Tuesday, 
+                    April 25, 2017
+              </blockquote>
+            </div>
+          <br />
+          
+          <ul class="about-button">
+            <li><a href="http://www.elect.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
+
       </div><!-- container -->
     </section>
     <!-- About end here -->

@@ -63,9 +63,30 @@
 		in technology at the Department of Electronic and Telecommunication Engineering. We welcome you all to join hands with us and 
 		be a part of EXMO-2017.
 		</p>
-        <ul class="about-button">
-          <li><a href="http://www.ent.mrt.ac.lk/web3/" class="default-button">Visit Department Website</a></li>
-        </ul>
+
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672322123074060/" 
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672322123074060/" 
+                class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/EXMOUOM/videos/1672322123074060/">
+                    Department of Electronic and Telecommunication Engineering</a>
+                    <p>We welcome you all to witness what the Department of Department of Electronic and 
+                    Telecommunication Engineering will offer at EXMO 2017. #EXMO2017 #UOM</p>
+                    Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Monday, 
+                    April 24, 2017
+              </blockquote>
+          </div>     
+          <br />
+          
+           <ul class="about-button">
+            <li><a href="http://www.ent.mrt.ac.lk/web3/" class="default-button">Visit Department Website</a></li>
+          </ul> 
+        </div>
       
       </div><!-- container -->
     </section>

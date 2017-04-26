@@ -16,8 +16,7 @@
           <h2>Department of Earth Resources Engineering</h2>
         </div>
 
-
-   <div class="row">
+        <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="gallery-item">
               <img src="images/departments/erm/erm_img_01.jpg" alt="gallery image" class="img-responsive">
@@ -47,25 +46,44 @@
           </div>
         </div><!-- row -->
 
-
         <p>
-			The department of Earth Resource Engineering (ERE) of University of Moratuwa is the key pillar of Sri Lankan mining 
-			technology. The Earth Resource Engineering graduates created by University of Moratuwa are capable of many sectors 
-			including designing, planning and operation of surface and underground mines, tunnelling and industrial rock blasting, 
-			designing and managing mineral processing and aggregate preparation plants, exploration and mining of off-shore deposits, 
-			geophysical and geo-chemical investigations, geotechnical investigations for civil construction works, solving water, 
-			soil and air related pollution issues, petroleum exploration and processing, and all aspects of gemmology.<br/><br/>
+    			The department of Earth Resource Engineering (ERE) of University of Moratuwa is the key pillar of Sri Lankan mining 
+    			technology. The Earth Resource Engineering graduates created by University of Moratuwa are capable of many sectors 
+    			including designing, planning and operation of surface and underground mines, tunnelling and industrial rock blasting, 
+    			designing and managing mineral processing and aggregate preparation plants, exploration and mining of off-shore deposits, 
+    			geophysical and geo-chemical investigations, geotechnical investigations for civil construction works, solving water, 
+    			soil and air related pollution issues, petroleum exploration and processing, and all aspects of gemmology.<br/><br/>
 
-			The vision of the department of Earth Resource Engineering is to achieve the goal in the creation of experience in the 
-			use of natural resources of the earth for the benefit of mankind and the continued research into its availability in the 
-			future.<br/><br/>
+    			The vision of the department of Earth Resource Engineering is to achieve the goal in the creation of experience in the 
+    			use of natural resources of the earth for the benefit of mankind and the continued research into its availability in the 
+    			future.<br/><br/>
 
-			Department of ERE will present many stunning demonstrations in the upcoming Exmo 2017 event, including a tunnel boring 
-			machine and an oil rig. Apart from these, a vast knowledge about geo-mining can be expected.
+    			Department of ERE will present many stunning demonstrations in the upcoming Exmo 2017 event, including a tunnel boring 
+    			machine and an oil rig. Apart from these, a vast knowledge about geo-mining can be expected.
         </p>
-        <ul class="about-button">
-          <li><a href="http://www.ere.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672876069685332/" 
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672876069685332/" 
+                class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/EXMOUOM/videos/1672876069685332/">
+                    Department of Earth Resources Engineering</a>
+                    <p>We welcome you all to witness what the Department of Earth Resources Engineering will offer at 
+                    EXMO 2017. #EXMO2017 #UOM</p>
+                    Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Tuesday, 
+                    April 25, 2017
+              </blockquote>
+          </div>
+          <br />
+          <ul class="about-button">
+            <li><a href="http://www.ere.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

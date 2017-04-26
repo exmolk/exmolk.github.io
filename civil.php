@@ -60,9 +60,29 @@
       		on results of researches handled successfully and still continuing and structure of complex construction centralizing Colombo port, 
       		the port city, and also a proud representation on mega police designs on upcoming event Exmo-2017.
     		</p>
-        <ul class="about-button">
-          <li><a href="http://www.civil.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672035289769410/" 
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672035289769410/" 
+                class="fb-xfbml-parse-ignore">
+                <a href="https://www.facebook.com/EXMOUOM/videos/1672035289769410/">
+                Department of Civil Engineering</a>
+                <p>We welcome you all to witness what the Department of Civil Engineering will offer at 
+                EXMO 2017. #EXMO2017 #UOM</p>Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - 
+                University of Moratuwa</a> on Sunday, April 23, 2017
+              </blockquote>
+            </div> 
+          <br />
+          
+           <ul class="about-button">
+            <li><a href="http://www.civil.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

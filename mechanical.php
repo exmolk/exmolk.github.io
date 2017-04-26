@@ -63,9 +63,30 @@
 		first ever car which competed in the IMechE - Formula Student Racing 2016 held in Silverstone – UK, bringing three awards to 
 		Sri Lanka.
 		</p>
-        <ul class="about-button">
-          <li><a href="http://www.mech.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+    
+        <div class="row">
+          <div 
+            class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672033029769636/" 
+            data-width="1024"
+            data-show-text="false">
+              <blockquote 
+              cite="https://www.facebook.com/EXMOUOM/videos/1672033029769636/" 
+              class="fb-xfbml-parse-ignore">
+              <a href="https://www.facebook.com/EXMOUOM/videos/1672033029769636/">
+              Department of Mechanical Engineering</a>
+              <p>We welcome you all to witness what the Department of Mechanical Engineering will offer at 
+              EXMO 2017. #EXMO2017 #UOM</p>
+              Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Sunday,
+               April 23, 2017
+              </blockquote>
+            </div>
+          <br />
+          
+           <ul class="about-button">
+            <li><a href="http://www.mech.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

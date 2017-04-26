@@ -62,9 +62,30 @@
           products and inventions. Many of the products have won international awards and it will be a pleasant experience for 
           those who visit the premises.
         </p>
-        <ul class="about-button">
-          <li><a href="http://www.cse.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+        
+
+        <div class="row">
+          <div class="fb-video" 
+            data-href="https://www.facebook.com/EXMOUOM/videos/1672872296352376/" 
+            data-width="1024" 
+            data-show-text="false">
+              <blockquote 
+                cite="https://www.facebook.com/EXMOUOM/videos/1672872296352376/" 
+                class="fb-xfbml-parse-ignore">
+                  <a href="https://www.facebook.com/EXMOUOM/videos/1672872296352376/">
+                    Department of Computer science and Engineering</a>
+                    <p>We welcome you all to witness what the Department of Computer Science and  Engineering will offer 
+                    at EXMO 2017. #EXMO2017 #UOM</p>
+                    Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> 
+                    on Tuesday, April 25, 2017
+              </blockquote>
+            </div>
+          <br />
+          
+          <ul class="about-button">
+            <li><a href="http://www.cse.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

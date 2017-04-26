@@ -1259,6 +1259,11 @@ header .menu-four.menu-four-bg ul li ul{
 .about .about-button{
     text-align: center;
 }
+
+.row .about-button{
+    text-align: center;
+    margin-top: 40px;
+}
 .about .about-button li{
     list-style: none;
     display: inline-block;

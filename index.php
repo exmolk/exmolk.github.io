@@ -8,8 +8,7 @@
   <?php 
     include("header.php");
   ?>
-
-
+  	
     <!-- banner start here-->
     <section  class="banner">
       <ul id="top" class="cb-slideshow">
@@ -77,8 +76,6 @@
       </div><!-- overlay -->
     </section>
     <!-- banner end here -->
-
-
 
     <!-- About start here -->
     <section id="about" class="about about-two">
