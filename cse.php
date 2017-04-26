@@ -60,7 +60,11 @@
           
           In EXMO 2017, the students of the department will be enlightening visitors with some of the state of the art research 
           products and inventions. Many of the products have won international awards and it will be a pleasant experience for 
-          those who visit the premises.
+          those who visit the premises.<br /><br />
+
+          In parallel to EXMO 2017, there will be an exhibition of photos taken by students of CSE13 and CSE14 batches for 
+          DE2550 – Digital Photography module. They were taken at the University premises, Galle Fort and Negombo. View more details 
+          about the exhibition with <a style="color:#337ab7;" href="competition-cse.php"> <b>CSE Photo Exhibition</b></a>!
         </p>
         
 
