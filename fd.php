@@ -67,9 +67,15 @@
     Our work will be open to public on this upcoming event of Exmo- 2017, which will leave a clear understanding 
     of long hours of hard work, keen knowledge of latest trends, creativity and innovativeness.<br /><br />
 		</p>
-        <ul class="about-button">
-          <li><a href="http://www.textile.mrt.ac.lk/bdesign.html" class="default-button">Visit Department Website</a></li>
-        </ul>
+
+        <div class="row">
+          <div class="fb-video" data-href="https://www.facebook.com/EXMOUOM/videos/1673386772967595/" data-width="1000" data-show-text="false"><blockquote cite="https://www.facebook.com/EXMOUOM/videos/1673386772967595/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EXMOUOM/videos/1673386772967595/">Fashion Design - University of Moratuwa</a><p>We welcome you all to witness what the Fashion Design will offer at EXMO 2017.
+#EXMO2017 #UOM</p>Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> on Wednesday, April 26, 2017</blockquote></div>
+          
+          <ul class="about-button">
+            <li><a href="http://www.textile.mrt.ac.lk/bdesign.html" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

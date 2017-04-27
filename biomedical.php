@@ -68,9 +68,25 @@
     engineering concepts and methods to provide new solutions to biological, medical and healthcare problems 
     of Sri Lanka and the world at large.
 		</p>
-        <ul class="about-button">
-          <li><a href="http://www.ent.mrt.ac.lk/bme/index.php/about-us/8-about-us/1-bme" class="default-button">Visit Department Website</a></li>
-        </ul>
+        <div class="row">
+          <div 
+          class="fb-video" 
+          data-href="https://www.facebook.com/EXMOUOM/videos/1673561106283495/" 
+          data-width="1000" 
+          data-show-text="false">
+          <blockquote 
+          cite="https://www.facebook.com/EXMOUOM/videos/1673561106283495/" 
+          class="fb-xfbml-parse-ignore">
+          <a href="https://www.facebook.com/EXMOUOM/videos/1673561106283495/"></a><p>
+            Biomedical Engineering Department
+          </p>
+          Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - University of Moratuwa</a> 
+          on Thursday, April 27, 2017</blockquote></div>
+          
+          <ul class="about-button">
+            <li><a href="http://www.ent.mrt.ac.lk/bme/index.php/about-us/8-about-us/1-bme" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>

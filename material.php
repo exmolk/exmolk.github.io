@@ -69,9 +69,25 @@
 			We warmly welcome you all to the academic excellence here at the Department of Materials Science
 			& Engineering at University of Moratuwa and hope to inspire you in the pursuit of knowledge.
         </p>
-        <ul class="about-button">
-          <li><a href="http://materials.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+
+        <div class="row">
+          <div 
+          class="fb-video" 
+          data-href="https://www.facebook.com/EXMOUOM/videos/1673569876282618/" 
+          data-width="1000" 
+          data-show-text="false">
+          <blockquote 
+          cite="https://www.facebook.com/EXMOUOM/videos/1673569876282618/" 
+          class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EXMOUOM/videos/1673569876282618/">
+          Materials Science and Engineering</a><p>We welcome you all to witness what the materials science and engineering 
+          will offer at EXMO 2017. #EXMO2017 #UOM</p>Posted by <a href="https://www.facebook.com/EXMOUOM/">
+          EXMO - University of Moratuwa</a> on Thursday, April 27, 2017</blockquote></div>
+          <br />
+          
+          <ul class="about-button">
+	        <li><a href="http://materials.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+	      </ul>
+        </div>
       
       </div><!-- container -->
     </section>
