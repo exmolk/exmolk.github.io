@@ -65,9 +65,22 @@
       		the department. Also public will be able to experience the process of an airport and hope that would be a first time experience 
       		to them. Further, there will be <b> <a style="color:#337ab7;" href="competition-quizmo.php">TLM QuizMO 2017</a></b>, general knowledge quiz competition  which will be held on both 28th and 29th of April from 9.00AM onwards
       		</p>
-        <ul class="about-button">
-          <li><a href="http://www.tlm.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
-        </ul>
+        <div class="row">
+          <div 
+          class="fb-video" 
+          data-href="https://www.facebook.com/EXMOUOM/videos/1673559712950301/" 
+          data-width="1000" data-show-text="false">
+          <blockquote cite="https://www.facebook.com/EXMOUOM/videos/1673559712950301/" 
+          class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/EXMOUOM/videos/1673559712950301/">
+          Transport and logistics</a><p>We welcome you all to witness what the Transport and logistics will offer at 
+          EXMO 2017.
+#EXMO2017 #UOM</p>Posted by <a href="https://www.facebook.com/EXMOUOM/">EXMO - 
+University of Moratuwa</a> on Thursday, April 27, 2017</blockquote></div>
+          
+          <ul class="about-button">
+            <li><a href="http://www.tlm.mrt.ac.lk/" class="default-button">Visit Department Website</a></li>
+          </ul>
+        </div>
       
       </div><!-- container -->
     </section>
