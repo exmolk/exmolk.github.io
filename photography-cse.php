@@ -131,6 +131,10 @@
 		Though these students study Engineering streams, they have an artistic eye and taste towards artistic observation. 
 		There are many skilled and talented photographers among them as well.
 	</p>
+
+            <ul class="about-button">
+            <li><a href="cse_photo_exhibition/Home.html" class="default-button">Photo Catalogue</a></li>
+          </ul>
       
     </div><!-- container -->
     </section>

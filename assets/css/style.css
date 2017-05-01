@@ -936,7 +936,7 @@ header .menu-four.menu-four-bg ul li ul{
     bottom: 49px;
     height: 120px;
     width: 100%;
-    background-color: #fff;
+    background-color:rgba(32, 97, 158, 0.8);
     z-index: 0;
 }
 .banner .content-right > .content{

@@ -63,7 +63,7 @@
     <script src="assets/js/flexfunctions.js"></script>
 
     <!-- Google Map -->
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAQlXnmyNPAeN3c3HNyWoUMqDk6bDF31Cg"></script>
+    <script async defer type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC7jeyvIpSrfT-_DhwSl3bturLKR6y0V9c&callback=initMap"></script>
     <script src="assets/js/map_functions.js"></script>
 
     <!-- Custom -->

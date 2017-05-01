@@ -44,7 +44,7 @@
             <p>April 2017</p>
           </div><!-- content-left -->
           <div class="content-right">
-            <div class="content">
+            <div class="content" id="exmo_heading_home_content" style="position: relative;">
               <h2> Exmo 2017</h2>
               <h4 style="color:white "> Organized by Faculty of Engineering, University of Moratuwa. </h4>
               <ul>
@@ -53,7 +53,7 @@
               </ul>
               <div id="clockdiv">
                 <div class="clock-item">
-                  <span class="days"></span>
+                  <span class="days" style="background-color: #2f9a22;"></span>
                   <p class="smalltext">Days</p>
                 </div>
                 <div class="clock-item">
@@ -68,8 +68,27 @@
                   <span class="seconds"></span>
                   <p class="smalltext">Seconds</p>
                 </div>
+
+                          <!--<div 
+                          id="clock_replace"    
+                          class="fb-video" 
+                          data-href="https://www.facebook.com/EXMOUOM/videos/1673092746330331/" 
+                          data-width="240" 
+                          data-show-text="false">
+                            <blockquote 
+                              cite="https://www.facebook.com/EXMOUOM/videos/1673092746330331/" 
+                              class="fb-xfbml-parse-ignore">
+                              <a href="https://www.facebook.com/EXMOUOM/videos/1673092746330331/">
+                              EXMO 2017</a>
+                              <p>University of Moratuwa – Faculty of engineering proudly presents Exmo 2017 - the majestic engineering and technological exhibition of the era.
+                            </blockquote>
+                        </div>-->
+
+
+
               </div>
             </div>
+            
           </div><!-- content-right -->
 
         </div><!-- banner-content -->
@@ -84,6 +103,8 @@
           <!--<div class="col-md-4 col-sm-12 col-xs-12">
             
           </div>-->
+
+          
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="content padding-120">
               <div class="section-header">
@@ -92,6 +113,9 @@
                       <div class="col-md-6 col-sm-6 col-xs-12">
                         <h2>About Exmo 2017</h2>
                         <p><em>Zenith of Innovation & Excellence</em></p>
+
+
+    
                       </div>
                 
 
@@ -100,6 +124,8 @@
                         <img src="images/logo_large.png" alt="about iamge" class="img-responsive">
                       </div>
                     </div>
+
+
             </div>
         </div>
         
@@ -128,7 +154,7 @@ future university-industry collaborative research.-->
 
 
 
-
+<br>
 The Faculty of Engineering, University of Moratuwa is organizing EXMO 
 2017 on 28th and 29th of April 2017 at the University Premises. 
 The main objective of the event is to provide a platform to unveil the creative and innovative ideas
@@ -162,12 +188,33 @@ knowledge. Thus the prime motive of EXMO 2017 is to accomplish the following obj
               <!--<ul class="about-button">
                 <li><a href="#" class="default-button">read more</a></li>
               </ul>-->
-              
+        <div style="text-align: center;">
+                <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                        <div     
+                          class="fb-video" 
+                          data-href="https://www.facebook.com/EXMOUOM/videos/1673092746330331/" 
+                          data-width="1024" 
+                          data-show-text="false">
+                            <blockquote 
+                              cite="https://www.facebook.com/EXMOUOM/videos/1673092746330331/" 
+                              class="fb-xfbml-parse-ignore">
+                              <a href="https://www.facebook.com/EXMOUOM/videos/1673092746330331/">
+                              EXMO 2017</a>
+                              <p>University of Moratuwa – Faculty of engineering proudly presents Exmo 2017 - the majestic engineering and technological exhibition of the era.
+                            </blockquote>
+                         </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/EXMO2017" data-widget-id="857795650641154049">#EXMO2017 Tweets</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                </div>
+                    </div>
+                      </div>
                 <!--<li><a href="#" class="default-button">buy ticket</a></li>-->
             </div>
           </div>
         </div>
-      
       </div><!-- container -->
     </section>
     <!-- About end here -->

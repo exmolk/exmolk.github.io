@@ -25,6 +25,20 @@
 
     function updateClock() {
       var t = getTimeRemaining(endtime);
+      if(t.total<=0)
+      {
+         clock.style.display = "none";
+         document.getElementById("exmo_heading_home_content").style.bottom ="12px";
+          return;
+          t = {
+              'total': 0,
+              'days': 0,
+              'hours': 0,
+              'minutes': 0,
+              'seconds': 0
+            };
+      }
+
 
       daysSpan.innerHTML = t.days;
       hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
@@ -40,6 +54,6 @@
     var timeinterval = setInterval(updateClock, 1000);
   }
 
-  var deadline = new Date(1493317800000 )//Date.parse(new Date()) + 310 * 24 * 60 * 60 * 1000);
+  var deadline = new Date(1493317800000+ 60 * 60 * 1000*9 );//Date.parse(new Date()) + 310 * 24 * 60 * 60 * 1000);
   initializeClock('clockdiv', deadline);
 
